@@ -1,0 +1,27 @@
+[
+    {
+        "cat_id": 1,
+        "type": "Grocery",
+        "cat_image": "https://i.ibb.co/7tXcbCG/Grocery.jpg"
+    },
+    {
+        "cat_id": 2,
+        "type": "Furniture",
+        "cat_image": "https://i.ibb.co/qpgC55f/furniture.webp"
+    },
+    {
+        "cat_id": 3,
+        "type": "Books",
+        "cat_image": "https://i.ibb.co/bdvdJ8W/books.jpg"
+    },
+    {
+        "cat_id": 4,
+        "type": "Electronic",
+        "cat_image": "https://i.ibb.co/Bj70bkQ/electronic.jpg"
+    },
+    {
+        "cat_id": 5,
+        "type": "Baby & Kids",
+        "cat_image": "https://i.ibb.co/n3j7YjK/baby-kids.jpg"
+    }
+]

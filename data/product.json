@@ -1,0 +1,1515 @@
+[
+      {
+        "product_id": 1,
+        "product_name": "Tide Double Power Jasmine and Rose Detergent Powder 2 kg",
+        "product_thumb": "https://i.ibb.co/SKckpVz/tide-1.jpg",
+        "average_rating": 5,
+        "cost": 370,
+        "cat_id" : "1",
+        "cat_name" : "Grocery",
+        "brand_id" : "1",
+        "brand_name" : "Detergents & Laundary",
+        "image_gallery": [
+          "https://i.ibb.co/SKckpVz/tide-1.jpg",
+          "https://i.ibb.co/sJ3VkgZ/tide-2.jpg",
+          "https://i.ibb.co/CHDzS0h/tide-3.jpg",
+          "https://i.ibb.co/BGbwNWN/tide-4.jpg"
+        ],
+        "product_description" : "New Tide Plus Double Power detergent powder has Stain Magnets, which can remove the toughest of stains to give you STAINLESS WHITES. Tide Plus' improved formulation and enzyme system has been specially designed to beat tough kitchen stains and give you outstanding whiteness. We often get food stains while cooking, when kids eat, while spending time with family. Tide Plus Double Power has easy dissolution in water and great foaming properties which removes stains easily. It is available in a range of amazing iconic fragrances - Jasmine&Rose and Lemon&Mint. The product works on both white and coloured clothes. Tide's Double Power refers to the superior formulation vs. Tide Naturals. Tide, a unit of Procter and Gamble, is the World�s Oldest and Most Trusted Detergent brand and is the Market Leader in 23 Countries around the world."
+      },
+      {
+        "product_id": 2,
+        "product_name": "Tide Matic Front Load Fresh Liquid Detergent  (850 ml)",
+        "product_thumb": "https://i.ibb.co/LCrpLNR/tide-5.jpg",
+        "average_rating": 4.5,
+        "cost": 177,
+        "cat_id" : "1",
+        "cat_name" : "Grocery",
+        "brand_id" : "1",
+        "brand_name" : "Detergents & Laundary",
+        "image_gallery": [
+          "https://i.ibb.co/LCrpLNR/tide-5.jpg",
+          "https://i.ibb.co/yqJvY95/tide-6.png",
+          "https://i.ibb.co/JBmstHw/tide-7.png",
+          "https://i.ibb.co/F542ZNz/tide-8.jpg"
+        ],
+        "product_description" : "New Tide Matic Liquid removes tough stains inside the machine while taking care of colours to provide you and your family an outstanding and bright clean . With a formula especially designed for Front Load washing machines, Tide Matic Liquid lifts tough stains and locks them inside machine itself , preventing re-deposition on your clothes. It delivers superior cleaning on both white and coloured clothes. It just requires 60 ml for normal loads and 90 ml for heavily soiled loads to provide great performance with value. Tide is the Worlds No.1 Detergent Brand (Source Euromonitor International, Home Care 2022 Ed, retail value RSP, 2021 data) and is a prominent unit of Procter & Gamble Company. With the New Tide Matic Liquid , you can take a step ahead and experience deep down cleaning like never before."
+      },
+      {
+        "product_id": 3,
+        "product_name": "Ujala Supreme Fabric Whitener  (250 ml)",
+        "product_thumb": "https://i.ibb.co/4M7v1pY/ujala-1.jpg",
+        "average_rating": 4.8,
+        "cost": 150,
+        "cat_id" : "1",
+        "cat_name" : "Grocery",
+        "brand_id" : "1",
+        "brand_name" : "Detergents & Laundary",
+        "image_gallery": [
+            "https://i.ibb.co/4M7v1pY/ujala-1.jpg",
+            "https://i.ibb.co/9T3kr2r/ujala-2.jpg",
+            "https://i.ibb.co/X8hJ3BM/ujala-3.jpg",
+            "https://i.ibb.co/xGCspY5/ujala-4.png"
+        ],
+        "product_description" : "Just 4 drops of Ujala Supreme brightens the fibers and gives your clothes the whiteness they deserve. Ujala Supreme has Ultra Radiance Molecules, that help it to dissolve faster, penetrate deeper and act instantly to make your clothes dazzling white."
+      },
+      {
+        "product_id": 4,
+        "product_name": "Comfort Anti Bacterial Action Fabric Conditioner  (860 ml)",
+        "product_thumb": "https://i.ibb.co/sty4q8V/comfort-fabric-1.jpg",
+        "average_rating": 4.8,
+        "cost": 197,
+        "cat_id" : "1",
+        "cat_name" : "Grocery",
+        "brand_id" : "1",
+        "brand_name" : "Detergents & Laundary",
+        "image_gallery": [
+            "https://i.ibb.co/sty4q8V/comfort-fabric-1.jpg",
+            "https://i.ibb.co/6nnW57g/comfort-fabric-2.png",
+            "https://i.ibb.co/MBN5T8w/comfort-fabric-3.png",
+            "https://i.ibb.co/zhQDfRK/comfort-fabric-4.jpg"
+        ],
+        "product_description" : "A good fabric conditioner is an essential part of every household. After Wash Morning Fresh Fabric Conditioner helps to keep your clothes fresh and scented. It helps to retain the shape of the cloth and also provide long life for your outfit. The product is known to provide proper care and keep your clothes smelling amazing. Comfort is a brand name for fabric softener sold by Unilever in the UK and around the world."
+      },
+      {
+        "product_id": 5,
+        "product_name": "Henko Matic - Front Load Liquid Detergent  (2 L)",
+        "product_thumb": "https://i.ibb.co/gTTf5wX/henko-1.jpg",
+        "average_rating": 4.8,
+        "cost": 346,
+        "cat_id" : "1",
+        "cat_name" : "Grocery",
+        "brand_id" : "1",
+        "brand_name" : "Detergents & Laundary",
+        "image_gallery": [
+            "https://i.ibb.co/gTTf5wX/henko-1.jpg",
+            "https://i.ibb.co/9cfRPZJ/henko-2.jpg",
+            "https://i.ibb.co/wsJ33wQ/henko-3.jpg",
+            "https://i.ibb.co/FWCfrN7/henko-4.jpg"
+        ],
+        "product_description" : "Introducing new Henko Matic liquid with lintelligent - your machine wash specialist. Its bio stain power removes even the toughest stains in the machine and nano-fibre lock technology fights ageing in clothes by locking the fibres and preventing them from breaking damage. Henko Matic liquid's ultra colour care protects your clothes from fading and maintains the colour of your clothes even after repeated washes without leaving any residue."
+      },
+      {
+        "product_id": 6,
+        "product_name": "Finish Dishwasher Salt Dishwashing Detergent  (2 kg)",
+        "product_thumb": "https://i.ibb.co/0y6c3Dh/finish-1.jpg",
+        "average_rating": 4.4,
+        "cost": 291,
+        "cat_id" : "1",
+        "cat_name" : "Grocery",
+        "brand_id" : "2",
+        "brand_name" : "Utensil Cleaners",
+        "image_gallery": [
+            "https://i.ibb.co/0y6c3Dh/finish-1.jpg",
+            "https://i.ibb.co/30MqpQk/finish-2.jpg",
+            "https://i.ibb.co/DWMLGnx/finish-3.png",
+            "https://i.ibb.co/6ycG34m/finish-4.jpg"
+        ],
+        "product_description" : "You can easily and thoroughly wash utensils in the dishwasher with the help of the Finish Dishwasher Salt. It ensures that the hard water inside your dishwasher becomes soft, which minimises water marks, white spots, and residue on dishes and improves the effectiveness of the detergent. This dishwasher salt helps in preventing the scale deposits on the dishes and in the dishwasher. Moreover, it is free from impurities like carbonates and iron, which are known to damage the inbuilt water softening units of dishwashers."
+      },
+      {
+        "product_id": 7,
+        "product_name": "Scotch-Brite Super Strong Scrub Pad  (Regular)",
+        "product_thumb": "https://i.ibb.co/m5GxyCW/scoth-1.png",
+        "average_rating": 4.4,
+        "cost": 40,
+        "cat_id" : "1",
+        "cat_name" : "Grocery",
+        "brand_id" : "2",
+        "brand_name" : "Utensil Cleaners",
+        "image_gallery": [
+            "https://i.ibb.co/93kVpbz/scotch-2.jpg",
+            "https://i.ibb.co/PCsSN6N/scotch-3.jpg",
+            "https://i.ibb.co/JnBKKgN/scotch-4.png",
+            "https://i.ibb.co/m5GxyCW/scoth-1.png"
+        ],
+        "product_description" : "The Scotch Brite scrub pad can be used to clean your pressure cookers, tawas, kadhais, and more so that stains, dirt, oil, and more can be properly cleaned. It features stain cutters and coarse fibres to ensure that you don’t have to put in a lot of effort to scrub away the stains on your utensils. And, it fits well in your hands, enabling you to clean every nook and corner of the utensils with ease."
+      },
+      {
+        "product_id": 8,
+        "product_name": "Pitambari Shining Powder Dishwashing Detergent  (1 kg)",
+        "product_thumb": "https://i.ibb.co/qxkSS96/pitambari-1.jpg",
+        "average_rating": 4.4,
+        "cost": 40,
+        "cat_id" : "1",
+        "cat_name" : "Grocery",
+        "brand_id" : "2",
+        "brand_name" : "Utensil Cleaners",
+        "image_gallery": [
+            "https://i.ibb.co/qxkSS96/pitambari-1.jpg",
+            "https://i.ibb.co/ZhqwbZx/pitambari-2.jpg",
+            "https://i.ibb.co/qyZSLCW/pitambari-3.jpg",
+            "https://i.ibb.co/m8dGNx5/pitambari-4.png"
+        ],
+        "product_description" : "Cleans, protects, preserves and restores the shine and luster to a variety of different surfaces. No more scrubbing, no mess, no waste – easy to apply. Contain kewda-chandan fragrance for pleasant application."
+      },
+      {
+        "product_id": 9,
+        "product_name": "Exo Anti-bacterial Ginger Twist Dishwash Bar  (2 x 0.7 kg)",
+        "product_thumb": "https://i.ibb.co/x26wZQP/exo-1.jpg",
+        "average_rating": 4.5,
+        "cost": 293,
+        "cat_id" : "1",
+        "cat_name" : "Grocery",
+        "brand_id" : "2",
+        "brand_name" : "Utensil Cleaners",
+        "image_gallery": [
+            "https://i.ibb.co/x26wZQP/exo-1.jpg",
+            "https://i.ibb.co/C7vFMmw/exo-2.jpg",
+            "https://i.ibb.co/7Qd4NF2/exo-3.jpg",
+            "https://i.ibb.co/0Cmg5DK/exo-4.jpg"
+        ],
+        "product_description" : "Anti Bacterial Hygenic Dishwash. Packet contains 2 round bars. Effectively kills germ. Cleanses tough grease and difficult stains. Helps keep utensils sparkling clean."
+      },
+      {
+        "product_id": 10,
+        "product_name": "Flipkart Supermart Home Essentials Lemon Dishwash Bar  (3 x 200 g)",
+        "product_thumb": "https://i.ibb.co/kBBy8nC/lemon-dishwasher-1.png",
+        "average_rating": 3.4,
+        "cost": 50,
+        "cat_id" : "1",
+        "cat_name" : "Grocery",
+        "brand_id" : "2",
+        "brand_name" : "Utensil Cleaners",
+        "image_gallery": [
+            "https://i.ibb.co/kBBy8nC/lemon-dishwasher-1.png",
+            "https://i.ibb.co/0mzrDsR/lemon-dishwasher-2.png",
+            "https://i.ibb.co/BBG8BYc/lemon-dishwasher-3.png",
+            "https://i.ibb.co/Khb7r3w/lemon-dishwasher-4.png"
+        ],
+        "product_description" : "Take a small amount of Dishwash bar with a wet scrubber and clean the dirty vessels with a wet scrubber to get sparkling clean utensils."
+      },
+      {
+        "product_id": 11,
+        "product_name": "Cycle Naivedya Cup Sambrani for Daily Puja Guggul Dhoop  (Pack of 12)",
+        "product_thumb": "https://i.ibb.co/qNwkr5T/pooja-1.jpg",
+        "average_rating": 4.4,
+        "cost": 50,
+        "cat_id" : "1",
+        "cat_name" : "Grocery",
+        "brand_id" : "3",
+        "brand_name" : "Pooja Needs",
+        "image_gallery": [
+            "https://i.ibb.co/qNwkr5T/pooja-1.jpg",
+            "https://i.ibb.co/r4BmVzw/pooja-2.jpg",
+            "https://i.ibb.co/4FQRVk8/pooja-3.png",
+            "https://i.ibb.co/L8dd3cr/pooja-4.png"
+        ],
+        "product_description" : "Special Sambrani Packages from the House of Cycle Brand. Burning Time :- 20 Minutes. Contain : The package contains Naivedya Cup Sambrani Pack of 1 with 12 cup. Easy to use and suitable for everyone . You can also gift it to your dear ones on a special occasion to make them feel special and loved. Naivedya Cup Sambrani Dhoop can also be used for meditation, spiritual & gifting purposes."
+      },
+      {
+        "product_id": 12,
+        "product_name": "Divya Cotton Wicks™ || Round Cotton Wicks || Cotton Puja Batti || Phool Batti for Pooja || Color: offWhite || Pack of 2 || 1000 Wicks",
+        "product_thumb": "https://i.ibb.co/qNwkr5T/pooja-1.jpg",
+        "average_rating": 4.4,
+        "cost": 250,
+        "cat_id" : "1",
+        "cat_name" : "Grocery",
+        "brand_id" : "3",
+        "brand_name" : "Pooja Needs",
+        "image_gallery": [
+            "https://i.ibb.co/qNwkr5T/pooja-1.jpg",
+            "https://i.ibb.co/r4BmVzw/pooja-2.jpg",
+            "https://i.ibb.co/4FQRVk8/pooja-3.png",
+            "https://i.ibb.co/L8dd3cr/pooja-4.png"
+        ],
+        "product_description" : "Before Buy Products, Ensure that you are buying from the “DIVYA COTTON WICKS” Only.\nDivya Cotton Wicks is a Brand who makes for Puja Batti from Pure Cotton.\nHandmade Puja Batti/Wicks.\nBig Size Cotton Puja Batti/Wicks\n2 Packet Cotton Wicks 1000 Pcs Each Packet."
+      },
+      {
+        "product_id": 13,
+        "product_name": "Flipkart Supermart Pooja Deepam Oil",
+        "product_thumb": "https://i.ibb.co/L0QGFdt/pooja-5.jpg",
+        "average_rating": 1.4,
+        "cost": 50,
+        "cat_id" : "1",
+        "cat_name" : "Grocery",
+        "brand_id" : "3",
+        "brand_name" : "Pooja Needs",
+        "image_gallery": [
+            "https://i.ibb.co/L0QGFdt/pooja-5.jpg",
+            "https://i.ibb.co/kDzm46M/pooja-6.png",
+            "https://i.ibb.co/Sd9PQ5h/pooja-7.png",
+            "https://i.ibb.co/z4VtvB1/pooja-8.jpg"
+        ],
+        "product_description" : "Developed with the goodness of Sesame Oil : Omjai Puja Til Oil – Til Subh is made with the goodness of Sesame oil which is rich in aroma is best to be used in pooja and spiritual purposes. It is most effective oil for use in puja in Hindu rituals due to the fact that it is considered the best remedy for Saturn and Rahu related ill effects and nullifies their adverse effect in one’s life. "
+      },
+      {
+        "product_id": 14,
+        "product_name": "Flipkart Supermart Pooja Camphor",
+        "product_thumb": "https://i.ibb.co/dQtZ0WF/camphor-1.png",
+        "average_rating": 1.4,
+        "cost": 200,
+        "cat_id" : "1",
+        "cat_name" : "Grocery",
+        "brand_id" : "3",
+        "brand_name" : "Pooja Needs",
+        "image_gallery": [
+            "https://i.ibb.co/dQtZ0WF/camphor-1.png",
+            "https://i.ibb.co/743M99h/camphor-2.png",
+            "https://i.ibb.co/D4rR0Sj/camphor-3.png",
+            "https://i.ibb.co/5MGNq9r/camphor-4.png"
+        ],
+        "product_description" : "In order to keep pace with the never-ending demands of customers, we are involved in offering a wide range of Puja Camphor Tablet.\n\nAccurate composition\nLong shelf life\nQuality approved"
+      },
+      {
+        "product_id": 15,
+        "product_name": "Home Essentials Agarbatti . Sandal, Jasmine & Lavender.",
+        "product_thumb": "https://i.ibb.co/c8V9Rvj/agarbatti-1.jpg",
+        "average_rating": 1.4,
+        "cost": 200,
+        "cat_id" : "1",
+        "cat_name" : "Grocery",
+        "brand_id" : "3",
+        "brand_name" : "Pooja Needs",
+        "image_gallery": [
+            "https://i.ibb.co/c8V9Rvj/agarbatti-1.jpg",
+            "https://i.ibb.co/N2xy7sY/agarbatti-2.jpg",
+            "https://i.ibb.co/tJH8Lwg/agarbatti-3.jpg",
+            "https://i.ibb.co/fxds2x6/agarbatti-4.png"
+        ],
+        "product_description" : "Material: Bamboo Stick\nProduct Breadth: 20 mm\nProduct Height: 10 mm\nProduct Length: 40 mm\nNet Quantity (N): 6\nAbout this item Rose, Lavender, Sandal, Champa, Jasmine & Kewda Hand blended and rolled in India according to ancient traditions. Contains all pure and natural ingredients, including, essential oils, herbs, and wood gums. Can be used for Aromatherapy, Yoga, Meditation, Healing, Soothing, Prayer and Romance."
+      },
+      {
+        "product_id": 16,
+        "product_name": "PEDIGREE Adult Chicken, Vegetable 1.2 kg Dry Adult Dog Food",
+        "product_thumb": "https://i.ibb.co/LCbM0LM/pedigree-1.jpg",
+        "average_rating": 4.4,
+        "cost": 320,
+        "cat_id" : "1",
+        "cat_name" : "Grocery",
+        "brand_id" : "4",
+        "brand_name" : "Pet Food",
+        "image_gallery": [
+            "https://i.ibb.co/LCbM0LM/pedigree-1.jpg",
+            "https://i.ibb.co/grdFP0Q/pedigree-2.png",
+            "https://i.ibb.co/4Nxsvq5/pedigree-3.png",
+            "https://i.ibb.co/1bNnCJz/pedigree-4.jpg"
+        ],
+        "product_description" : "The Pedigree Adult Chicken and Vegetables dry dog food is loaded with many vitamins, minerals and antioxidants that are essential for your pet’s proper growth. It acts as a balanced diet to make your dog healthy from both inside and outside. It is good for your canine’s teeth, fur, bones, digestive tract and muscles. It will also boost your pet’s immunity."
+      },
+      {
+        "product_id": 17,
+        "product_name": "Whiskas (+1 year) Ocean Fish 3 kg Dry Adult Cat Food",
+        "product_thumb": "https://i.ibb.co/4ZmKmRQ/whiskas-1.jpg",
+        "average_rating": 5,
+        "cost": 900,
+        "cat_id" : "1",
+        "cat_name" : "Grocery",
+        "brand_id" : "4",
+        "brand_name" : "Pet Food",
+        "image_gallery": [
+            "https://i.ibb.co/4ZmKmRQ/whiskas-1.jpg",
+            "https://i.ibb.co/kQfpZ6N/whiskas-2.jpg",
+            "https://i.ibb.co/CQhfMhZ/whiskas-3.png",
+            "https://i.ibb.co/bHY2ZtD/whiskas-4.png"
+        ],
+        "product_description" : "These little pockets of fish cat food are going to have your cat crunching and munching till the last bite. Easy to serve, healthy and crunchy, this cat food is going to give you a healthier and happier cat."
+      },
+      {
+        "product_id": 18,
+        "product_name": "Cavin's Kaju Butterscotch Milkshake, with Zinc, Vitamin A & D, No Preservative ",
+        "product_thumb": "https://i.ibb.co/xY1gmKP/dairy-1.jpg",
+        "average_rating": 4.3,
+        "cost": 125,
+        "cat_id" : "1",
+        "cat_name" : "Grocery",
+        "brand_id" : "5",
+        "brand_name" : "Dairy",
+        "image_gallery": [
+            "https://i.ibb.co/xY1gmKP/dairy-1.jpg",
+            "https://i.ibb.co/sqMQ6SZ/dairy-2.png",
+            "https://i.ibb.co/SxBsGPH/dairy-3.jpg",
+            "https://i.ibb.co/2PLS1Kx/dairy-4.jpg"
+        ],
+        "product_description" : "Cavin's Chocolate Milkshakes are thick and creamy flavoured shakes fortified with the goodness of milk and exotic chocolate to make every sip irresistibly delightful. This is a healthy mid-meal snack that will provide your children with an instant source of energy. It is now fortified with Zinc for immune support and is a good source of Calcium, Vitamin A, and Vitamin D for strong bones and teeth. So, why wait when you can have both taste and health in a single tetra pack? A family pack to enjoy with your loved ones."
+      },
+      {
+        "product_id": 19,
+        "product_name": "Amul Plain Processed cheese Block  (1 kg) ",
+        "product_thumb": "https://i.ibb.co/j5GKpnh/dairy-5.jpg",
+        "average_rating": 4.3,
+        "cost": 505,
+        "cat_id" : "1",
+        "cat_name" : "Grocery",
+        "brand_id" : "5",
+        "brand_name" : "Dairy",
+        "image_gallery": [
+            "https://i.ibb.co/j5GKpnh/dairy-5.jpg",
+            "https://i.ibb.co/Ph5SR8N/dairy-6.jpg",
+            "https://i.ibb.co/Sx9VfP0/dairy-7.jpg",
+            "https://i.ibb.co/rdL7LdD/dairy-8.jpg"
+        ],
+        "product_description" : "Cheese is a dairy product, derived from milk and produced in wide ranges of flavours, textures and forms by coagulation of the milk protein, Casein. It comprises of milk proteins and fats. Cheese can give a lip-smacking flavour to every dish, you can either consume it whole, melt it in your food or shred it on salads and sandwiches. So go ahead and buy Amul Cheese Block online today."
+      },
+      {
+        "product_id": 20,
+        "product_name": "MOTHER DAIRY Whitener Dailycious Skimmed Milk Powder (1 kg) ",
+        "product_thumb": "https://i.ibb.co/TP3Nhnh/dairy-9.png",
+        "average_rating": 4.0,
+        "cost": 446,
+        "cat_id" : "1",
+        "cat_name" : "Grocery",
+        "brand_id" : "5",
+        "brand_name" : "Dairy",
+        "image_gallery": [
+            "https://i.ibb.co/TP3Nhnh/dairy-9.png",
+            "https://i.ibb.co/SmyrHwZ/dairy-10.png",
+            "https://i.ibb.co/GvXvdVv/dairy-11.png",
+            "https://i.ibb.co/X5c0PL4/dairy-12.png"
+        ],
+        "product_description" : "Dairy Whitener That Makes Rich & Creamy Milk Mix Instantly It mixes in completely with your tea to lift its taste - so you get a thicker & tastier cup of tea, every time.        "
+      },
+      {
+        "product_id": 21,
+        "product_name": "Egg Master NA Hen Brown Eggs  (12 Units)",
+        "product_thumb": "https://i.ibb.co/d5GBVG9/dairy-13.jpg",
+        "average_rating": 3.2,
+        "cost": 150,
+        "cat_id" : "1",
+        "cat_name" : "Grocery",
+        "brand_id" : "5",
+        "brand_name" : "Dairy",
+        "image_gallery": [
+            "https://i.ibb.co/d5GBVG9/dairy-13.jpg",
+            "https://i.ibb.co/RbVxNmf/dairy-14.png",
+            "https://i.ibb.co/p3j89Ww/dairy-15.jpg",
+            "https://i.ibb.co/s2yBSjy/dairy-16.jpg"
+        ],
+        "product_description" : "Rich nutrients white eggs, enriched with organic selenium and organic minerals for complete wellness.\nThese are one of nature's most wholesome and cost-effective foods. You can bake enjoyable cakes, cookies, scones etc. with eggs; try your hand over at family pasta as well. It is twisted boiled, sunny-side up, deviled or evened. The Indian method curry eggs can be finished in so many unique tasty ways. An egg can give you a health kick in no time at all! It is the ideal ingredient to add to your child's breakfast for growth and development. Eggs can be consumed in various ways like omelettes, boiled eggs, egg bhurji and in any of the dozen egg recipe.\nA rich source of protein, various vitamins and amino acids, it is one of the rare food items that contain diverse nutrients. Recent studies show that eggs can prevent strokes, heart diseases and also breast cancer. They promote healthy hair and nails now that is an incentive for every woman out there!\nYou can have them for breakfast, lunch, dinner and even as in-between snacks. Doctors recommend having at least one egg every day."
+      },
+      {
+        "product_id": 22,
+        "product_name": "BRITANNIA Potazos Spicy Biscuit",
+        "product_thumb": "https://i.ibb.co/3s9rBVv/dairy-17.jpg",
+        "average_rating": 3.7,
+        "cost": 40,
+        "cat_id" : "1",
+        "cat_name" : "Grocery",
+        "brand_id" : "5",
+        "brand_name" : "Dairy",
+        "image_gallery": [
+            "https://i.ibb.co/3s9rBVv/dairy-17.jpg",
+            "https://i.ibb.co/zGG8dYR/dairy-18.jpg",
+            "https://i.ibb.co/NLjSjkj/dairy-19.jpg",
+            "https://i.ibb.co/5nhYcfH/dairy-20.jpg"
+        ],
+        "product_description" : "Britannia 5050 Potazos is a delicious combination of two of your favourite snacking items: Biscuits & Chips. With the masaledar chatpata flavor of a Chip and the baked crunchy delight of a Biscuit, this product is just irresistible. It is also extremely thin and crispy. Everyone gets addicted to the tasty confusion of 50 Chip 50 Biscuits that is 5050 Potazos. The potato chips come in a strong and durable packing to ensure the safety of the content."
+      },
+      {
+        "product_id": 23,
+        "product_name": "Crystal Furnitech Newton Engineered Wood Corner Table  (Finish Color - Wenge, Knock Down)",
+        "product_thumb": "https://i.ibb.co/BBgmTmx/bed-1.jpg",
+        "average_rating": 3.7,
+        "cost": 3289,
+        "cat_id" : "2",
+        "cat_name" : "Furniture",
+        "brand_id" : "6",
+        "brand_name" : "Beds Room Furniture",
+        "image_gallery": [
+            "https://i.ibb.co/BBgmTmx/bed-1.jpg",
+            "https://i.ibb.co/s9nP00v/bed-2.png",
+            "https://i.ibb.co/zP7fhkR/bed-3.jpg",
+            "https://i.ibb.co/JvjgbBZ/bed-4.jpg"
+        ],
+        "product_description" : "Material: Engineered Wood | Finish: Rolex Dar\nWarranty Description: 3 years Manufacturing Warranty\nSpecial Features: The Table is laminated on both sides which adds to its durability\nDimensions : 50 x 120 x 110 cm "
+      },
+      {
+        "product_id": 24,
+        "product_name": "SPACEWOOD Engineered Wood Queen Hydraulic Bed",
+        "product_thumb": "https://i.ibb.co/CPP8xvt/bed-5.jpg",
+        "average_rating": 4.0,
+        "cost": 28390,
+        "cat_id" : "2",
+        "cat_name" : "Furniture",
+        "brand_id" : "6",
+        "brand_name" : "Beds Room Furniture",
+        "image_gallery": [
+            "https://i.ibb.co/CPP8xvt/bed-5.jpg",
+            "https://i.ibb.co/8rGws3B/bed-6.png",
+            "https://i.ibb.co/nmSfzqd/bed-7.png",
+            "https://i.ibb.co/t4H1yHB/bed-8.png"
+        ],
+        "product_description" : "Bed Material Subtype: Particle Board\nStorage Type: Hydraulic\nDelivery Condition: Knock Down - Delivered in non-assembled pieces, installation by service partner\nDimensions : W x H x D: 159 cm x 90 cm x 221 cm (5 ft 2 in x 2 ft 11 in x 7 ft 3 in) "
+      },
+      {
+        "product_id": 25,
+        "product_name": "BLUEWUD Freddie Engineered Wood Dressing Table",
+        "product_thumb": "https://i.ibb.co/4WbvVjJ/bed-9.jpg",
+        "average_rating": 4.4,
+        "cost": 6719,
+        "cat_id" : "2",
+        "cat_name" : "Furniture",
+        "brand_id" : "6",
+        "brand_name" : "Beds Room Furniture",
+        "image_gallery": [
+            "https://i.ibb.co/4WbvVjJ/bed-9.jpg",
+            "https://i.ibb.co/745kvtc/bed-10.jpg",
+            "https://i.ibb.co/Qnj2WJF/bed-11.jpg",
+            "https://i.ibb.co/CK5p3xN/bed-12.png"
+        ],
+        "product_description" : "DIY - Basic assembly to be done with simple tools by the customer, comes with instructions.\nFinish Type: Matte | Finish Color: Walnut\nMirror W x H: 4 cm x 1500 cm\nDimensions :W x H x D: 68.5 cm x 150 cm x 12 cm (2 ft 2 in x 4 ft 11 in x 4 in) "
+      },
+      {
+        "product_id": 26,
+        "product_name": "Allie Wood Bedside Pre Assembled Red and White Cabinet with 2 Drawers Engineered Wood Bedside Table",
+        "product_thumb": "https://i.ibb.co/Qdg3sRt/bed-13.png",
+        "average_rating": 4.1,
+        "cost": 2554,
+        "cat_id" : "2",
+        "cat_name" : "Furniture",
+        "brand_id" : "6",
+        "brand_name" : "Beds Room Furniture",
+        "image_gallery": [
+            "https://i.ibb.co/Qdg3sRt/bed-13.png",
+            "https://i.ibb.co/T0dwXFS/bed-14.png",
+            "https://i.ibb.co/CBn2k7v/bed-15.png",
+            "https://i.ibb.co/3CLnH6h/bed-16.png"
+        ],
+        "product_description" : "Suitable For: Living Room\nStorage Included\nPre Assembled (Ready to Use)\nDimensions :Width x Height: 38 x 39 cm (1 ft 2 in x 1 ft 3 in)\n12 Months Warranty Against Any Manufacturing Defects"
+      },
+      {
+        "product_id": 27,
+        "product_name": "SPACEWOOD Apex Engineered Wood 3 Door Wardrobe",
+        "product_thumb": "https://i.ibb.co/QP32931/bed-17.jpg",
+        "average_rating": 4.1,
+        "cost": 28976,
+        "cat_id" : "2",
+        "cat_name" : "Furniture",
+        "brand_id" : "6",
+        "brand_name" : "Beds Room Furniture",
+        "image_gallery": [
+            "https://i.ibb.co/QP32931/bed-17.jpg",
+            "https://i.ibb.co/df2TpZd/bed-18.png",
+            "https://i.ibb.co/cFM2Yxm/bed-19.png",
+            "https://i.ibb.co/FKyHbV3/bed-20.jpg"
+        ],
+        "product_description" : "Primary Material: Engineered Wood\nNumber Of Doors: 3\nNumber Of Shelves: 8\nWeight: 127\nDimensions :Width x Height: 123.6 cm x 191.8 cm (4 ft x 6 ft 3 in)\nDelivery Condition: Knock Down - Delivered in non-assembled pieces, installation by service partner"
+      },
+      {
+        "product_id": 28,
+        "product_name": "Flipkart SmartBuy 500 cm Wall Stickers Wallpaper 3D Ivy Nature Restaurant Office Design Self Adhesive Self Adhesive Sticker",
+        "product_thumb": "https://i.ibb.co/qpXqssN/home-decor-1.png",
+        "average_rating": 4.1,
+        "cost": 200,
+        "cat_id" : "2",
+        "cat_name" : "Furniture",
+        "brand_id" : "7",
+        "brand_name" : "Home Decor",
+        "image_gallery": [
+            "https://i.ibb.co/qpXqssN/home-decor-1.png",
+            "https://i.ibb.co/ZKj4cpp/home-decor-2.png",
+            "https://i.ibb.co/237fCvB/home-decor-3.png",
+            "https://i.ibb.co/W04D73V/home-decor-4.jpg"
+        ],
+        "product_description" : "Primary Material: Engineered Wood\nNumber Of Doors: 3\nNumber Of Shelves: 8\nWeight: 127\nDimensions :Width x Height: 123.6 cm x 191.8 cm (4 ft x 6 ft 3 in)\nDelivery Condition: Knock Down - Delivered in non-assembled pieces, installation by service partner"
+      },
+      {
+        "product_id": 29,
+        "product_name": "ONLINECRAFTS wooden wall shelf 8 wala (brown) c2400 Wooden Wall Shelf",
+        "product_thumb": "https://i.ibb.co/jbdyHHh/home-decor-5.png",
+        "average_rating": 4.1,
+        "cost": 799,
+        "cat_id" : "2",
+        "cat_name" : "Furniture",
+        "brand_id" : "7",
+        "brand_name" : "Home Decor",
+        "image_gallery": [
+            "https://i.ibb.co/jbdyHHh/home-decor-5.png",
+            "https://i.ibb.co/5r7F71T/home-decor-6.jpg",
+            "https://i.ibb.co/7Nb3GMK/home-decor-7.jpg",
+            "https://i.ibb.co/qJWd7QW/home-decor-8.png"
+        ],
+        "product_description" : "Suitable For: Living Room & Bedroom\nMaterial: Wooden\nNo of Shelves: 4\nRust Proof\nDimensions :Width x Height: 4 inch x 28 inch"
+      },
+      {
+        "product_id": 30,
+        "product_name": "Chocozone Decorative Showpiece - 7.4 cm ",
+        "product_thumb": "https://i.ibb.co/nD1BTPZ/home-decor-9.png",
+        "average_rating": 4.0,
+        "cost": 499,
+        "cat_id" : "2",
+        "cat_name" : "Furniture",
+        "brand_id" : "7",
+        "brand_name" : "Home Decor",
+        "image_gallery": [
+            "https://i.ibb.co/nD1BTPZ/home-decor-9.png",
+            "https://i.ibb.co/vkwBd8M/home-decor-10.png",
+            "https://i.ibb.co/rmcxv4F/home-decor-11.jpg",
+            "https://i.ibb.co/5Mtbnhs/home-decor-12.jpg"
+        ],
+        "product_description" : "Type: NA Couple & Human Figurine\nMaterial: Plastic\nSuitable For: Table, Car\nWeight: 200 g\nDimensions: 9.8 cm x 7.4 cm x 1.5 cm"
+      },
+      {
+        "product_id": 31,
+        "product_name": "DivineCrafts Analog 32.5 cm X 32.5 cm Wall Clock ",
+        "product_thumb": "https://i.ibb.co/N3yh18n/home-decor-13.png",
+        "average_rating": 4.0,
+        "cost": 398,
+        "cat_id" : "2",
+        "cat_name" : "Furniture",
+        "brand_id" : "7",
+        "brand_name" : "Home Decor",
+        "image_gallery": [
+            "https://i.ibb.co/N3yh18n/home-decor-13.png",
+            "https://i.ibb.co/KGvjh75/home-decor-14.jpg",
+            "https://i.ibb.co/Zxw3YDt/home-decor-15.png",
+            "https://i.ibb.co/nQL7khw/home-decor-16.png"
+        ],
+        "product_description" : "Clock Type: Analog\nMaterial: Wooden\nMechanism: Quartz\nWeight: 200 g\nDimensions: 32.5 cm x 32.5 cm"
+      },
+      {
+        "product_id": 32,
+        "product_name": "Mindfied 20 inch Bonsai Lighted Tree with 36 Pearls LED, Decorations Table Tree Lamp Lights, Battery/USB Operated, DIY Artificial Tree for Wedding Party Gifts Indoor Outdoor Decor (Warm White) Table Lamp (29 cm, Yellow) Table Lamp  (6 cm, Yellow)",
+        "product_thumb": "https://i.ibb.co/kMy8k1z/home-decor-17.jpg",
+        "average_rating": 4.4,
+        "cost": 799,
+        "cat_id" : "2",
+        "cat_name" : "Furniture",
+        "brand_id" : "7",
+        "brand_name" : "Home Decor",
+        "image_gallery": [
+            "https://i.ibb.co/kMy8k1z/home-decor-17.jpg",
+            "https://i.ibb.co/7kc4zkX/home-decor-18.jpg",
+            "https://i.ibb.co/FYyhmkS/home-decor-19.png",
+            "https://i.ibb.co/cyMVS8j/home-decor-20.jpg"
+        ],
+        "product_description" : "LED TREE: LED bonsai tree lights made of 36 LED lights, 20in high, handmade, the pearl tree light is very suitable for party, wedding, Christmas, bar, restaurant, bedroom and other scene decoration, it is definitely your Ideal LED decorative light. * 2 POWER SOURCE: The LED tree light is powered by USB and AA batteries. You can use USB power to decorate, or you can use 3 AA batteries (Does not include battery and adapter). Touch the sensor switch, you can turn it on or off with a light touch. This is a necessary night light for children's decoration in your bedroom, safe and energy-saving. * COPPER WIRE: Hand-made and carefully designed, you can decorate in any shape to meet your needs in different scenes. This pearl LED tree light is very suitable for DIY design. It is placed by the base, easy to move, you can decorate this LED copper wire tree lamp indoors or outdoors. * FLEXIBLE BRANCHES: The branches are flexible and can be adjusted to your favorite style.If you feel dull ,also can hang lightweight accessories, perfect for everyday decor. * LOW POWER CONSUMPTION: You can rest assured that using it for a long time, the LED lights will not heat. Durable and break resistant with 25,000 hour bulb life."
+      },
+      {
+        "product_id": 32,
+        "product_name": "SUTLEJ Solid Wood 4 Seater Dining Set",
+        "product_thumb": "https://i.ibb.co/NrjtDZv/living-1.png",
+        "average_rating": 3.8,
+        "cost": 17910,
+        "cat_id" : "2",
+        "cat_name" : "Furniture",
+        "brand_id" : "8",
+        "brand_name" : "Living Room Furniture",
+        "image_gallery": [
+            "https://i.ibb.co/NrjtDZv/living-1.png",
+            "https://i.ibb.co/qyjHFQG/living-2.jpg",
+            "https://i.ibb.co/RHG90z4/living-3.png",
+            "https://i.ibb.co/5vPYcJD/living-4.png"
+        ],
+        "product_description" : "Table Top Material: Engineered Wood\nChair Frame: Solid Wood\nTable (W x H x D): 120 cm x 74.5 cm x 75 cm (3 ft 11 in x 2 ft 5 in x 2 ft 5 in)\nSeating Capacity: 4 Seater\nDelivery Condition: Knock Down - Delivered in non-assembled pieces, installation by service partner"
+    },
+    {
+        "product_id": 33,
+        "product_name": "Bharat Lifestyle Tulip311 Fabric 3 + 1 + 1 Sofa Set",
+        "product_thumb": "https://i.ibb.co/xS3461h/living-5.jpg",
+        "average_rating": 3.6,
+        "cost": 18499,
+        "cat_id" : "2",
+        "cat_name" : "Furniture",
+        "brand_id" : "8",
+        "brand_name" : "Living Room Furniture",
+        "image_gallery": [
+            "https://i.ibb.co/xS3461h/living-5.jpg",
+            "https://i.ibb.co/0rrWN9j/living-6.png",
+            "https://i.ibb.co/KrXHJY7/living-7.png",
+            "https://i.ibb.co/Mn52F4N/living-8.png"
+        ],
+        "product_description" : "Filling Material: Foam\nFrame Material: Solid Wood\nFrame Material: Solid Wood\nDIY - Basic assembly to be done with simple tools by the customer, comes with instructions."
+    },
+    {
+        "product_id": 34,
+        "product_name": "Crystal Furnitech Avia Engineered Wood Coffee Table ",
+        "product_thumb": "https://i.ibb.co/0FMtsPM/living-9.png",
+        "average_rating": 4.3,
+        "cost": 3483,
+        "cat_id" : "2",
+        "cat_name" : "Furniture",
+        "brand_id" : "8",
+        "brand_name" : "Living Room Furniture",
+        "image_gallery": [
+            "https://i.ibb.co/0FMtsPM/living-9.png",
+            "https://i.ibb.co/PMMZSwT/living-10.png",
+            "https://i.ibb.co/3zvwnYc/living-11.png",
+            "https://i.ibb.co/K6jX6dK/living-12.png"
+        ],
+        "product_description" : "Particle Board\nEngineered Wood\nDimensions: W x H x D: 90 cm x 47 cm x 45 cm (2 ft 11 in x 1 ft 6 in x 1 ft 5 in)\nStorage Included\nKnock Down - Delivered in non-assembled pieces, installation by service partner"
+    },
+    {
+        "product_id": 35,
+        "product_name": "Home Full Bliss Engineered Wood TV Entertainment Unit ",
+        "product_thumb": "https://i.ibb.co/vVnTy29/living-13.png",
+        "average_rating": 4.2,
+        "cost": 8799,
+        "cat_id" : "2",
+        "cat_name" : "Furniture",
+        "brand_id" : "8",
+        "brand_name" : "Living Room Furniture",
+        "image_gallery": [
+            "https://i.ibb.co/vVnTy29/living-13.png",
+            "https://i.ibb.co/QNcRT9g/living-14.png",
+            "https://i.ibb.co/NVBd2tT/living-15.jpg",
+            "https://i.ibb.co/J5YfKK4/living-16.png"
+        ],
+        "product_description" : "Particle Board\nEngineered Wood\nDimensions: W x H x D: 180 Cm x 54 cm x 40 cm (5 ft 10 in x 1 ft 9 in x 1 ft 3 in)\nIdeal TV Size: 70 inch\nNumber of Drawers: 2, Number of Open Shelves: 3, Number of Closed Shelves: 0\nDelivery Condition: Knock Down - Delivered in non-assembled pieces, installation by service partner"
+    },
+    {
+        "product_id": 36,
+        "product_name": "Crystal Furnitech Eadric Engineered Wood Kitchen Cabinet ",
+        "product_thumb":  "https://i.ibb.co/M88Gj8M/living-17.png",
+        "average_rating": 4.2,
+        "cost": 13775,
+        "cat_id" : "2",
+        "cat_name" : "Furniture",
+        "brand_id" : "8",
+        "brand_name" : "Living Room Furniture",
+        "image_gallery": [
+            "https://i.ibb.co/M88Gj8M/living-17.png",
+            "https://i.ibb.co/NYh8hKn/living-18.png",
+            "https://i.ibb.co/RcggJjF/living-19.png",
+            "https://i.ibb.co/Tt72ZHn/living-20.png"
+        ],
+        "product_description" : "Suitable For: Storage\nNumber of Shelves: 7\nW x H x D: 1200 mm x 1380 mm x 400 mm (3 ft 11 in x 4 ft 6 in x 1 ft 3 in)\nKnock Down - Delivered in non-assembled pieces, installation by service partner"
+    },
+    {
+        "product_id": 37,
+        "product_name": "AneriDEALS Crystal Clear Water Bottle for Fridge, Home, Office Gym School Boy, Unbreakable 1000 ml Bottle  (Pack of 6, Multicolor, PET) ",
+        "product_thumb":  "https://i.ibb.co/ysqsWQH/kitchen-1.png",
+        "average_rating": 4.1,
+        "cost": 374,
+        "cat_id" : "2",
+        "cat_name" : "Furniture",
+        "brand_id" : "9",
+        "brand_name" : "Kitchen Storage",
+        "image_gallery": [
+            "https://i.ibb.co/ysqsWQH/kitchen-1.png",
+            "https://i.ibb.co/dgX6wHc/kitchen-2.jpg",
+            "https://i.ibb.co/ySYf55X/kitchen-3.jpg",
+            "https://i.ibb.co/x3FnLQh/kitchen-4.jpg"
+        ],
+        "product_description" : "PURE | BPA FREE & LEAD FREE | NEVER STAINS: Our crystal clear water bottle is the safe and ideal choice for healthy beverages as it will never leach chemicals, absorb odors or stain like other cheap plastics. Made from BPA free premium quality plastic to ensure a pure drinking experience. The plastic water bottle construction ensures they are long-wearing and withstand damage from drops, unlike a washable glass water bottle., UNIQUE DESIGN:Our plastic bottle offers a unique and attractive design. With diamond like texture on the body & sheer body design helps to easily identify the contents and also adds beauty to the liquid that you put in. Kids and adults will surely love these bottles, your kids won't go to school without it. The diamond crystal design gives the hand a comfortable and easy grip. Ensured by smoothly opening lid and neck diameter of 3.2 cm which allows appropriate quantity of water to come out."
+    },
+    {
+        "product_id": 38,
+        "product_name": "MILTON Eiffel 500ml Flask 500 ml Flask  (Pack of 1, Black, Steel/Chrome, Plastic) ",
+        "product_thumb":  "https://i.ibb.co/v1PThRd/kitchen-5.jpg",
+        "average_rating": 4.1,
+        "cost": 350,
+        "cat_id" : "2",
+        "cat_name" : "Furniture",
+        "brand_id" : "9",
+        "brand_name" : "Kitchen Storage",
+        "image_gallery": [
+            "https://i.ibb.co/v1PThRd/kitchen-5.jpg",
+            "https://i.ibb.co/vDB2kyV/kitchen-6.jpg",
+            "https://i.ibb.co/DpPrS51/kitchen-7.jpg",
+            "https://i.ibb.co/RTtq9xK/kitchen-8.jpg"
+        ],
+        "product_description" : "Sales Package : 1 Eiffel 500 ml Flask\nNumber of Contents in Sales Package : Pack of 1\nBody Material : Plastic\nHandle with Care : Yes\nBPA Free : Yes"
+    },
+    {
+        "product_id": 39,
+        "product_name": "HOT LIFE Charcoal Grill",
+        "product_thumb":  "https://i.ibb.co/ZXFnQX9/kitchen-9.jpg",
+        "average_rating": 4.2,
+        "cost": 1199,
+        "cat_id" : "2",
+        "cat_name" : "Furniture",
+        "brand_id" : "9",
+        "brand_name" : "Kitchen Storage",
+        "image_gallery": [
+            "https://i.ibb.co/ZXFnQX9/kitchen-9.jpg",
+            "https://i.ibb.co/8MSBPzy/kitchen-10.jpg",
+            "https://i.ibb.co/XJYt9YN/kitchen-11.jpg",
+            "https://i.ibb.co/5vtkXZr/kitchen-12.jpg"
+        ],
+        "product_description" : "Take your love for cooking to a whole new level with the HOT LIFE barbeque grill. Whether you wish to invite some friends over for a barbeque party or treat your family and loved ones to a scrumptious meal, the HOT LIFE Barbeque grill will make the perfect choice. This grill is great for picnic, parties, family gatherings and more. Be it vegetables, fish, steaks or burgers, this grill is sure to let you prepare mouth-watering dishes that your guests and family members are sure to love. This barbeque grill is extremely easy to assemble as well as clean. Thanks to its detachable legs and portable case, this coal-based Barbeque grill can be easily carried along while you go on picnic. HOT LIFE Barbeque grill comes with a removable tray with a handle .Pierce your favourite vegetables or meat with the skewers and place them a top the barbecue station to cook them with the charcoal. You can use all skewers or fewer, depending on your needs.Let the medium of barbecue fill up the air as you cook to impress your guests with your flair at the grill. HOT LIFE Barbecue is a Safe and Smart Cooking Alternative for using in Hostel, Cottages, Offices and Camping. "
+    },
+    {
+        "product_id": 40,
+        "product_name": "Sedulous LOCK & LOCK Air Tight Kitchen Plastic Storage Containers - 1000 ml Plastic Grocery Container  (Pack of 6, Black) ",
+        "product_thumb":  "https://i.ibb.co/2ndvgw2/kitchen-13.jpg",
+        "average_rating": 4.6,
+        "cost": 500,
+        "cat_id" : "2",
+        "cat_name" : "Furniture",
+        "brand_id" : "9",
+        "brand_name" : "Kitchen Storage",
+        "image_gallery": [
+            "https://i.ibb.co/2ndvgw2/kitchen-13.jpg",
+            "https://i.ibb.co/YDpKmQj/kitchen-14.jpg",
+            "https://i.ibb.co/mzqQ7QR/kitchen-15.jpg",
+            "https://i.ibb.co/ph1pJwS/kitchen-16.jpg"
+        ],
+        "product_description" : "Type: Grocery Container\nMaterial: Plastic\nAirtight\nSafety Features: Freezer Safe\nPack of 6"
+    },
+    {
+        "product_id": 41,
+        "product_name": "JAINFAM JAINFAM PUF Insulated Casserole Set for Food Warmer 1500ml,2500ml,3500ml Pack of 3 Thermoware Casserole Set  (1500 ml, 2500 ml, 3500 ml)",
+        "product_thumb":  "https://i.ibb.co/3WQT9r9/kitchen-17.png",
+        "average_rating": 3.6,
+        "cost": 678,
+        "cat_id" : "2",
+        "cat_name" : "Furniture",
+        "brand_id" : "9",
+        "brand_name" : "Kitchen Storage",
+        "image_gallery": [
+            "https://i.ibb.co/3WQT9r9/kitchen-17.png",
+            "https://i.ibb.co/Dpw2v7p/kitchen-18.png",
+            "https://i.ibb.co/ygpmsxJ/kitchen-19.png",
+            "https://i.ibb.co/p0H5jdw/kitchen-20.jpg"
+        ],
+        "product_description" : "Type: Casserole Set\nMade of: Stainless Steel\nPack of: 3\nCapacity: 1500 ml, 2500 ml, 3500 ml\nCasserole Type: Thermoware Casserole"
+    },
+    {
+        "product_id": 42,
+        "product_name": "Prestige Cleanhome Alpha Mop With 2 Microfiber Mop Heads Mop Set",
+        "product_thumb":  "https://i.ibb.co/MVsBgPF/cleaning-1.jpg",
+        "average_rating": 4.2,
+        "cost": 700,
+        "cat_id" : "2",
+        "cat_name" : "Furniture",
+        "brand_id" : "10",
+        "brand_name" : "Cleaning Supplies",
+        "image_gallery": [
+            "https://i.ibb.co/MVsBgPF/cleaning-1.jpg",
+            "https://i.ibb.co/ZmVHj6k/cleaning-2.jpg",
+            "https://i.ibb.co/8Kg8dvW/cleaning-3.jpg",
+            "https://i.ibb.co/nBx7tPV/cleaning-4.jpg"
+        ],
+        "product_description" : "Mopping your house became easier with Alpha mop. Made of high grade plastic, it is light, durable and easy to use. It is a quick and easy way to get a spotless floor."
+    },
+    {
+        "product_id": 43,
+        "product_name": "KOLORR 18 L Twin Bin 2in1 Dry & Wet Waste Pedal Wastebin with Lid for Home Kitchen Plastic Dustbin  (Blue, Green)",
+        "product_thumb":  "https://i.ibb.co/r74dkfh/cleaning-5.jpg",
+        "average_rating": 4.1,
+        "cost": 899,
+        "cat_id" : "2",
+        "cat_name" : "Furniture",
+        "brand_id" : "10",
+        "brand_name" : "Cleaning Supplies",
+        "image_gallery": [
+            "https://i.ibb.co/r74dkfh/cleaning-5.jpg",
+            "https://i.ibb.co/nCxKQgM/cleaning-6.jpg",
+            "https://i.ibb.co/F4LDq46/cleaning-7.jpg",
+            "https://i.ibb.co/0ydSwv3/cleaning-8.jpg"
+        ],
+        "product_description" : "Kolorr Dustbins are made up of 100% Virgin strong and durable plastic. No need of touching the waste bin as it is equipped with easy functional foot pedal. It has a lid so there is no worry related to the smell escaping the bin. Side-by-side double compartment recycle bin for dry and wet waste. Ideal for use in narrow spaces within the bathroom, bedroom or home office. This pedal Dustbin is versatile and has a stylish look to it. It can be kept in offices, home, kitchen, and bathroom, washroom to enhance the appearance of the room and to keep the surroundings clean & hygienic. Dustbin Care Instruction: wash and rinse with liquid soap and lukewarm water. Clean with dry cloth to remove dirt. Keep it away from the direct sunlight and place it in a cool place "
+    },
+    {
+        "product_id": 44,
+        "product_name": "SCOTCH BRITE Water Resistant Fiber Dry Broom  (Green, Beige)",
+        "product_thumb":  "https://i.ibb.co/7C1g9TQ/cleaning-9.png",
+        "average_rating": 4.1,
+        "cost": 350,
+        "cat_id" : "2",
+        "cat_name" : "Furniture",
+        "brand_id" : "10",
+        "brand_name" : "Cleaning Supplies",
+        "image_gallery": [
+            "https://i.ibb.co/7C1g9TQ/cleaning-9.png",
+            "https://i.ibb.co/CwYg9H3/cleaning-10.png",
+            "https://i.ibb.co/rMjxyt2/cleaning-11.png",
+            "https://i.ibb.co/vLK5Cbt/cleaning-12.png"
+        ],
+        "product_description" : "Having understood the problems with the current brooms in the market with respect to dust shedding from the broom, lack of flexibility and durability, the need to bend more while cleaning, not being able to sweep on water - Scotch-Brite after several years of research and development has launched an innovative Broom for the Indian market to make cleaning an easy task! The specialty of the broom lies in its flat fibers and friendly design which removes even fine dust and hair giving you the flexibility to reach corners with less back strain."
+    },
+    {
+        "product_id": 45,
+        "product_name": "Honch Silicon Toilet Brush White Color with Wall mounting Sticker with Holder  (Multicolor)",
+        "product_thumb":  "https://i.ibb.co/MNSq9tJ/cleaning-13.jpg",
+        "average_rating": 3.4,
+        "cost": 125,
+        "cat_id" : "2",
+        "cat_name" : "Furniture",
+        "brand_id" : "10",
+        "brand_name" : "Cleaning Supplies",
+        "image_gallery": [
+            "https://i.ibb.co/MNSq9tJ/cleaning-13.jpg",
+            "https://i.ibb.co/WVZ5ytt/cleaning-14.png",
+            "https://i.ibb.co/qC8FTqQ/cleaning-15.jpg",
+            "https://i.ibb.co/p3S17PY/cleaning-16.png"
+        ],
+        "product_description" : "Silicon Toilet Brush is new and easy way to clean your bathroom, toilet pot, washbasin and floor. This product has silicon brush and comes with a trellis holder. Brush can be attched on side wall with 3M tape, which looks good and very hygienic."
+    },
+    {
+        "product_id": 46,
+        "product_name": "RBGIIT Silicon Dish Washing Gloves For Kitchen Scrubbing Pet Grooming Car Bathroom Wet and Dry Glove Set  (Medium Pack of 2)",
+        "product_thumb":  "https://i.ibb.co/VW671Tr/cleaning-17.png",
+        "average_rating": 3.4,
+        "cost": 160,
+        "cat_id" : "2",
+        "cat_name" : "Furniture",
+        "brand_id" : "10",
+        "brand_name" : "Cleaning Supplies",
+        "image_gallery": [
+            "https://i.ibb.co/VW671Tr/cleaning-17.png",
+            "https://i.ibb.co/RgKxm9S/cleaning-18.png",
+            "https://i.ibb.co/ckjg8sF/cleaning-19.png",
+            "https://i.ibb.co/DYsSR1T/cleaning-20.png"
+        ],
+        "product_description" : "2 IN 1 DESIGN - Palms and fingers covered with thick silicone bristles, quickly and thoroughly to wash FOOD GRADE SILICONE - Made of healthy silicone, antibacterial and does no harm to food MULTI-FUNCTION - Size: 29 x 14 x 3 CM. Color: Multi. Can be used to wash fruits and veggies, clean bathtub as well as pet hair care and more HEAT RESISTANT - Heat resistant and with strong toughness, not easy to deform, crimp or fracture EASY TO WASH - Water and oil proof, easy to rinse with water 1. silicone environmentally friendly product. It is easy to rinse with water as it can be sterilized in hot water. This product is more durable than rubber gloves and can be used repeatedly for a long time,Silicon gloves are fit for all of people, the thick fingertips, full palm coverage design can grip better. The surface of different types of materials makes it easily do homework without hurting hands (Multicolour)"
+    },
+    {
+        "product_id": 47,
+        "product_name": "Sunderkand  (Hindi, Paperback, Tulsidas Goswami)",
+        "product_thumb":  "https://i.ibb.co/cJvDpnt/literature-1.jpg",
+        "average_rating": 4.7,
+        "cost": 160,
+        "cat_id" : "3",
+        "cat_name" : "Books",
+        "brand_id" : "11",
+        "brand_name" : "Literature Books",
+        "image_gallery": [
+            "https://i.ibb.co/cJvDpnt/literature-1.jpg",
+            "https://i.ibb.co/svhJ4j0/literature-2.jpg",
+            "https://i.ibb.co/YDvn0r5/literature-3.png",
+            "https://i.ibb.co/8zNM077/literature-4.jpg"
+        ],
+        "product_description" : "Sunderkand, believed to be the most beautiful (Sunder) part of the Ramayana, describes Lord Hanuman's journey to Lanka. This book elucidates his pristine lifestyle, following which brings karmic and spiritual knowledge, and bhakti (Devotion) in one's life. It is even believed that when one reads the Sunderkand, Lord Hanuman himself graces the reader with his presence. Carrying the entire text and explanation of the Sunderkand, Shri Hanuman Chalisa, and Sankatmochan Hanumanashtak, this edition also contains aartis of Lord Ganesh, Lord Ram, and Lord Hanuman.About the AuthorGoswami Tulsidas was one of the greatest bhakti poets of all time. Born in the early sixteenth century, the exact place and time of his birth is unknown. A lot of conjecture has been made about his early life. He had a full set of teeth when he was born, his mother died a day after his birth so his father abandoned him, and he even met the god Hanuman. Tulsidas is also believed to be the avatar of Maharishi Valmiki, the writer of the epic Ramayana. allegedly, after a fight with his wife, Tulsidas decided to embark on a pilgrimage and began immersing himself in his devotion to god. His epic, Ramcharitamanas, is a work that has had an immense influence on Indian culture and society."
+    },
+    {
+        "product_id": 48,
+        "product_name": "Mein Kampf  (English, Paperback, Hitler Adolf)",
+        "product_thumb":  "https://i.ibb.co/JrnLk64/literature-5.jpg",
+        "average_rating": 4.4,
+        "cost": 300,
+        "cat_id" : "3",
+        "cat_name" : "Books",
+        "brand_id" : "11",
+        "brand_name" : "Literature Books",
+        "image_gallery": [
+            "https://i.ibb.co/JrnLk64/literature-5.jpg",
+            "https://i.ibb.co/nrDLPvH/literature-6.jpg",
+            "https://i.ibb.co/7grxKt6/literature-7.png",
+            "https://i.ibb.co/F5sX4rk/literature-8.png"
+        ],
+        "product_description" : "Adolf Hitler, though you may like him or not you can't forget him. He is an icon, yes he has done few wrong things but it can take nothing away from a man that he is.Also by reading this book you will come to know why he did that. The book has much more than one would expect knowing Hitler. We should try to gather the positives from his life an believe me there are many positives in Hitler specially for us Indians, the love for their motherland and all. The book is a classic and it ought to be in your collection."
+    },
+    {
+        "product_id": 49,
+        "product_name": "An Outline History of English Literature  (English, Paperback, Hudson William Henry)",
+        "product_thumb":  "https://i.ibb.co/V3K6JpN/literature-9.jpg",
+        "average_rating": 4.4,
+        "cost": 150,
+        "cat_id" : "3",
+        "cat_name" : "Books",
+        "brand_id" : "11",
+        "brand_name" : "Literature Books",
+        "image_gallery": [
+            "https://i.ibb.co/V3K6JpN/literature-9.jpg",
+            "https://i.ibb.co/18YkDgf/literature-10.jpg",
+            "https://i.ibb.co/9q5C5GK/literature-11.jpg",
+            "https://i.ibb.co/brG625f/literature-12.jpg"
+        ],
+        "product_description" : "Language: English\nBinding: Paperback\nPublisher: Rupa & Co\nGenre: Literary Collections\nISBN: 9788129135391, 9788129135391\nPages: 320"
+    },
+    {
+        "product_id": 50,
+        "product_name": "Mirza Ghalib  (Hindi, Paperback, Gulzar)",
+        "product_thumb":  "https://i.ibb.co/DDs2g0L/history-1.jpg",
+        "average_rating": 4.4,
+        "cost": 256,
+        "cat_id" : "3",
+        "cat_name" : "Books",
+        "brand_id" : "12",
+        "brand_name" : "History And Archaeology Books",
+        "image_gallery": [
+            "https://i.ibb.co/DDs2g0L/history-1.jpg",
+            "https://i.ibb.co/CKf0Whd/history-2.jpg",
+            "https://i.ibb.co/n7PPn1L/history-3.jpg",
+            "https://i.ibb.co/r3DY0VN/history-4.jpg"
+        ],
+        "product_description" : "In his long and celebrated career, Gulzar has worked with the doyens of Bollywood and he commands the highest respect as a soulful lyricist, insightful script-writer, sensitive director and compassionate human being."
+    },
+    {
+        "product_id": 51,
+        "product_name": "The Republic  (English, Paperback, Plato)",
+        "product_thumb":  "https://i.ibb.co/2nf8Nmf/history-5.jpg",
+        "average_rating": 4.5,
+        "cost": 200,
+        "cat_id" : "3",
+        "cat_name" : "Books",
+        "brand_id" : "12",
+        "brand_name" : "History And Archaeology Books",
+        "image_gallery": [
+            "https://i.ibb.co/2nf8Nmf/history-5.jpg",
+            "https://i.ibb.co/gWNMsFX/history-6.png",
+            "https://i.ibb.co/ggqrVTJ/history-7.jpg",
+            "https://i.ibb.co/KhDkyrK/history-8.jpg"
+        ],
+        "product_description" : "Language: English\nBinding: Paperback\nPublisher: Prakash Books\nGenre: Literary Criticism\nISBN: 9788175993068, 9788175993068\nPages: 400"
+    },
+    {
+        "product_id": 52,
+        "product_name": "The Penguin History of Early India - From the Origins to AD 1300  (English, Paperback, Romila Thapar,)",
+        "product_thumb":  "https://i.ibb.co/3TDzjZc/history-9.jpg",
+        "average_rating": 4.3,
+        "cost": 220,
+        "cat_id" : "3",
+        "cat_name" : "Books",
+        "brand_id" : "12",
+        "brand_name" : "History And Archaeology Books",
+        "image_gallery": [
+            "https://i.ibb.co/3TDzjZc/history-9.jpg",
+            "https://i.ibb.co/d4LN6zJ/history-10.png",
+            "https://i.ibb.co/ftrc734/history-11.jpg",
+            "https://i.ibb.co/1RxZVHL/history-12.jpg"
+        ],
+        "product_description" : "Language: English\nBinding: Paperback\nPublisher: Prakash Books\nGenre: Literary Criticism\nISBN: 9788175993068, 9788175993068\nPages: 400\nAbout : The Penguin History Of Early India From The Origins To AD 1300 is a book about the history of India, and talks in astonishing detail about the colorful history of this interesting country."
+    },
+    {
+        "product_id": 53,
+        "product_name": "Ncert Textbook + Exemplar Problem Solutions Mathematics Class 7  (English, Paperback, MTG Editorial Board)",
+        "product_thumb":  "https://i.ibb.co/SxYsrxG/entrance-1.jpg",
+        "average_rating": 4.3,
+        "cost": 220,
+        "cat_id" : "3",
+        "cat_name" : "Books",
+        "brand_id" : "13",
+        "brand_name" : "Entrance Exam Books",
+        "image_gallery": [
+            "https://i.ibb.co/SxYsrxG/entrance-1.jpg",
+            "https://i.ibb.co/phyCT4m/entrance-2.png",
+            "https://i.ibb.co/T2X3KXc/entrance-3.jpg"
+        ],
+        "product_description" : "MTG’s NCERT Textbook + Exemplar Problem solutions- Mathematics is an excellent book designed to provide a comprehensive guide to NCERT Textbook and NCERT Exemplar Problems of Mathematics for Class 7 students. This book provides a detailed explanation to all subjective and objective type questions given in both NCERT Textbook and NCERT Exemplar Problems book. This is an error free and ‘Self-study’ book to master the concepts in Mathematics. This book aims to give the best solutions and help the students to score high in school examinations as well as to build a strong foundation for Olympiads and other national level competitive exams. "
+    },
+    {
+        "product_id": 54,
+        "product_name": "Golden Hindi: Based on NEW NCERT Kshitij and Kritika for Class- 9 (Course - A)(For 2024 Final Exams, includes Objective Type Question Bank) 1st Edition  (Hindi, Paperback, Soumya Chandra)",
+        "product_thumb":  "https://i.ibb.co/TPN74wM/entrance-4.png",
+        "average_rating": 4.3,
+        "cost": 220,
+        "cat_id" : "3",
+        "cat_name" : "Books",
+        "brand_id" : "13",
+        "brand_name" : "Entrance Exam Books",
+        "image_gallery": [
+            "https://i.ibb.co/TPN74wM/entrance-4.png",
+            "https://i.ibb.co/VVFq4vF/entrance-5.png",
+            "https://i.ibb.co/mNkGrDV/entrance-6.jpg"
+        ],
+        "product_description" : "MTG’s NCERT Textbook + Exemplar Problem solutions- Mathematics is an excellent book designed to provide a comprehensive guide to NCERT Textbook and NCERT Exemplar Problems of Mathematics for Class 7 students. This book provides a detailed explanation to all subjective and objective type questions given in both NCERT Textbook and NCERT Exemplar Problems book. This is an error free and ‘Self-study’ book to master the concepts in Mathematics. This book aims to give the best solutions and help the students to score high in school examinations as well as to build a strong foundation for Olympiads and other national level competitive exams. "
+    },
+    {
+        "product_id": 55,
+        "product_name": "Class 3: Learning English For Smarter Life  (English, Paperback, Vani Khanna, Debjani Chatterjee)",
+        "product_thumb":  "https://i.ibb.co/4Z7j7ns/entrance-9.jpg",
+        "average_rating": 3.9,
+        "cost": 280,
+        "cat_id" : "3",
+        "cat_name" : "Books",
+        "brand_id" : "13",
+        "brand_name" : "Entrance Exam Books",
+        "image_gallery": [
+            "https://i.ibb.co/4Z7j7ns/entrance-9.jpg",
+            "https://i.ibb.co/grQm9hW/entrance-10.png",
+            "https://i.ibb.co/0j27S4W/entrance-11.jpg"
+        ],
+        "product_description" : "Learning English for Smarter Life book is a comprehensive, fun filled, child oriented course book for developing a progressive multi skilled development in the learning of English. This book focusses on 4 targeted areas of listening, speaking, reading & writing the language. Detailed content is given at the start of the chapter to give a complete idea about the book. All the content is strictly based on the NCERT syllabus to help student having a great learning experience. The key features of the book include sectional layouts within a chapter for learning activities of the children."
+    },
+    {
+        "product_id": 56,
+        "product_name": "The Girl In Room 105  (English, Paperback, Bhagat Chetan)",
+        "product_thumb":  "https://i.ibb.co/4JLDZ86/fiction-1.jpg",
+        "average_rating": 4.5,
+        "cost": 170,
+        "cat_id" : "3",
+        "cat_name" : "Books",
+        "brand_id" : "14",
+        "brand_name" : "Fiction Books",
+        "image_gallery": [
+            "https://i.ibb.co/4JLDZ86/fiction-1.jpg",
+            "https://i.ibb.co/rFt99D3/fiction-2.jpg"
+        ],
+        "product_description" : "Hi, I'm Keshav, and my life is screwed. I hate my job and my girlfriend left me. Ah, the beautiful Zara. Zara is from Kashmir. She is a Muslim. And did I tell you my family is a bit, well, traditional? Anyway, leave that. Zara and I broke up four years ago. She moved on in life. I didn't. I drank every night to forget her. I called, messaged, and stalked her on social media. She just ignored me. However, that night, on the eve of her birthday, Zara messaged me. She called me over, like old times, to her hostel room 105. I shouldn't have gone, but I did ... and my life changed forever. This is not a love story. It is an un-love story. From the author of Five Point Someone and 2 States, comes a fast-paced, funny and unputdownable thriller about obsessive love and finding purpose in life against the backdrop of contemporary India."
+    },
+    {
+        "product_id": 57,
+        "product_name": "Ghosts of the Silent Hills  (English, Paperback, Krishan Anita)",
+        "product_thumb":  "https://i.ibb.co/qYbTp46/fiction-3.jpg",
+        "average_rating": 4.5,
+        "cost": 170,
+        "cat_id" : "3",
+        "cat_name" : "Books",
+        "brand_id" : "14",
+        "brand_name" : "Fiction Books",
+        "image_gallery": [
+            "https://i.ibb.co/qYbTp46/fiction-3.jpg",
+            "https://i.ibb.co/n8zVP06/fiction-4.jpg",
+            "https://i.ibb.co/K6tD60p/fiction-5.jpg"
+        ],
+        "product_description" : "THE DEAD DO NOT REST TILL THEY GET WHAT THEY WANT. You have arrived in the hills. In here, you are surrounded by dense, menacing forests, enveloped in a deadly silence . . . You never know what lurks here in the cold, dark night. Do not walk alone after sunset in the hills. A beautiful woman in white haunts the lonely pathways, looking to enchant and ensnare men . . . All the people who died in accidents here . . . They say you hear their screams at night. And the deserted lodges sitting amidst lush greenery and calm streams . . . Spirits lie in wait here, ready to prey on the living. There are sceptics who did not heed these warnings. They tried to rationalize what they saw, what they felt. But when they came face to face with the beings that they believed didn’t exist, they couldn’t run away anymore . . . Ghosts of the Silent Hills is a collection that will make your nights a little scarier, encompassing the very best spine-chilling stories based on true hauntings."
+    },
+    {
+        "product_id": 58,
+        "product_name": "Gullivers Travels  (English, Paperback, Swift Jonathan)",
+        "product_thumb":  "https://i.ibb.co/4Vdf48G/fiction-6.jpg",
+        "average_rating": 4.2,
+        "cost": 180,
+        "cat_id" : "3",
+        "cat_name" : "Books",
+        "brand_id" : "14",
+        "brand_name" : "Fiction Books",
+        "image_gallery": [
+            "https://i.ibb.co/4Vdf48G/fiction-6.jpg",
+            "https://i.ibb.co/3vgcHS5/fiction-7.jpg",
+            "https://i.ibb.co/9NGpCt6/fiction-8.jpg"
+        ],
+        "product_description" : "“Every Man Desires To Live Long, But No Man Wishes To Be Old.” Shipwrecked On His First Voyage, He Wakes Up In Lilliput—A Kingdom Of Tiny People Who Are One-Twelfth The Height Of Human Beings . . . Blown Off Course By The Gales On His Second, He Is Sold To The Queen By A Giant Farmer In Brobdingnag . . . Attacked By Pirates On His Third, Marooned Near A Desolate Island, He Discovers Laputa—The Flying Island With Educated But Impractical People . . . And As A Captain Of A Merchantman On His Fourth Voyage, Abandoned On A Landing Boat By His Crew, He Meets Houyhnhnms—A Race Of Talking Horses Who Are The Rulers, And Yahoos—The Deformed Creatures Who Are Human Beings In Their Base Form. Meet Lemuel Gulliver, As He Describes His Adventurous Voyages Across The Islands He Lands Upon. A Universally-Read Satirical Fantasy, Jonathan Swift’S Gulliver’S Travels Continues To Remain A Classic Of English Literature Even More Than Two And A Half Centuries After It Was First Published."
+    },
+    {
+        "product_id": 59,
+        "product_name": "Naruto, Vol. 8  (English, Paperback, Kishimoto Masashi)",
+        "product_thumb":  "https://i.ibb.co/JRpzCqy/graphic-1.jpg",
+        "average_rating": 4.8,
+        "cost": 600,
+        "cat_id" : "3",
+        "cat_name" : "Books",
+        "brand_id" : "15",
+        "brand_name" : "Graphic Novels And Comics",
+        "image_gallery": [
+            "https://i.ibb.co/JRpzCqy/graphic-1.jpg",
+            "https://i.ibb.co/bFNKkZt/graphic-2.jpg",
+            "https://i.ibb.co/F0D1zRM/graphic-3.jpg"
+        ],
+        "product_description" : "As the preliminaries to the third phase of the Journeyman Ninja Selection Exams begin, the student ninja face off against each other in no-holds-barred, one-on-one bouts. Deaf to Sakura's pleas to withdraw from the contest and despite the crippling effects of the curse placed on him by the nefarious Orochimaru, Sasuke enters the first match against one of the vicious Sound Ninja spies. But with his signature fighting techniques suddenly off-limits, how can Sasuke possibly prevail? And even if he manages to survive the violent brawl, Orochimaru's curse is threatening to change Sasuke forever!"
+    },
+    {
+        "product_id": 60,
+        "product_name": "The Crab with the Golden Claws  (English, Paperback, Herge)",
+        "product_thumb":  "https://i.ibb.co/wcZTjZh/graphic-4.jpg",
+        "average_rating": 4.8,
+        "cost": 380,
+        "cat_id" : "3",
+        "cat_name" : "Books",
+        "brand_id" : "15",
+        "brand_name" : "Graphic Novels And Comics",
+        "image_gallery": [
+            "https://i.ibb.co/wcZTjZh/graphic-4.jpg",
+            "https://i.ibb.co/q1GwgHF/graphic-5.jpg",
+            "https://i.ibb.co/QpLGh2m/graphic-6.png"
+        ],
+        "product_description" : "The Adventures of Tintin: The Crab with the Golden Claws, by Herge, is the ninth delightful volume featuring one of the most popular comic heroes, Tintin."
+    },
+    {
+        "product_id": 61,
+        "product_name": "Ack - the Complete Mythology Collection  (English, Hardcover, unknown)",
+        "product_thumb":  "https://i.ibb.co/1GjW2s6/graphic-7.jpg",
+        "average_rating": 4.8,
+        "cost": 5670,
+        "cat_id" : "3",
+        "cat_name" : "Books",
+        "brand_id" : "15",
+        "brand_name" : "Graphic Novels And Comics",
+        "image_gallery": [
+            "https://i.ibb.co/1GjW2s6/graphic-7.jpg",
+            "https://i.ibb.co/9Gk7tgJ/graphic-8.jpg"
+        ],
+        "product_description" : "Amar Chitra Katha Complete Mythology Collection consists of a comprehensive set of books with stories from various Indian puranas and epics."
+    },
+    {
+        "product_id": 62,
+        "product_name": "ALenovo IdeaPad Gaming 3 Intel Core i5 11th Gen - (8 GB/512 GB SSD/Windows 11 Home/4 GB Graphics/NVIDIA GeForce GTX 1650) 82K101B6IN|82K101FTIN Gaming Laptop  (39.62 cm, Shadow Black, 2.25 kg)",
+        "product_thumb":  "https://i.ibb.co/5Rh2XrH/laptop-1.jpg",
+        "average_rating": 4.3,
+        "cost": 49990,
+        "cat_id" : "4",
+        "cat_name" : "Electronic",
+        "brand_id" : "16",
+        "brand_name" : "Laptops",
+        "image_gallery": [
+            "https://i.ibb.co/5Rh2XrH/laptop-1.jpg",
+            "https://i.ibb.co/GVv286g/laptop-2.png",
+            "https://i.ibb.co/60dgQp0/laptop-3.jpg"
+        ],
+        "product_description" : "High-performance and portable, the Lenovo IdeaPad Gaming Laptop offers you the flexibility of use. It is suitable for on-the-go gaming because of its sleek and lightweight design, allowing you to bring your high-performance gaming system to your college, or on trips. Additionally, this laptop's 11th generation Intel processor provides optimal performance. The GTX 1650 GPU also offers increased power for demanding gaming and content streaming, thanks to its 3rd generation tensor cores, 2nd generation raytracing, and NVIDIA's DLSS, Reflex, Broadcast, and Studio technologies."
+    },
+    {
+        "product_id": 63,
+        "product_name": "APPLE 2020 Macbook Air M1 - (8 GB/256 GB SSD/Mac OS Big Sur) MGN63HN/A  (13.3 inch, Space Grey, 1.29 kg) ",
+        "product_thumb":  "https://i.ibb.co/yBmWq9V/laptop-4.png",
+        "average_rating": 4.8,
+        "cost": 79990,
+        "cat_id" : "4",
+        "cat_name" : "Electronic",
+        "brand_id" : "16",
+        "brand_name" : "Laptops",
+        "image_gallery": [
+            "https://i.ibb.co/yBmWq9V/laptop-4.png",
+            "https://i.ibb.co/93rDZBy/laptop-5.png",
+            "https://i.ibb.co/898rRwg/laptop-6.jpg"
+        ],
+        "product_description" : "This Apple Macbook is powered by the Apple M1 chip and is easily portable so that you can carry it with you anywhere you want. This thin and light notebook is equipped with an 8-core CPU to handle all your tasks more efficiently. The 8-core GPU of this notebook takes graphic-intensive games and apps to a whole new level. It also comes with a 16-core Neural Engine to do machine learning tasks more effectively. Its fan-less design offers silent operations and has a long-lasting battery life which can last up to 18 hours on a single charge."
+    },
+    {
+        "product_id": 64,
+        "product_name": "ASUS Vivobook 15 Core i5 11th Gen - (8 GB/512 GB SSD/Windows 11 Home) X515EA-EJ522WS Thin and Light Laptop  (15.6 Inch, Transparent Silver, 1.80 kg, With MS Office)",
+        "product_thumb":  "https://i.ibb.co/Dbk49xc/laptop-7.jpg",
+        "average_rating": 4.2,
+        "cost": 42990,
+        "cat_id" : "4",
+        "cat_name" : "Electronic",
+        "brand_id" : "16",
+        "brand_name" : "Laptops",
+        "image_gallery": [
+            "https://i.ibb.co/Dbk49xc/laptop-7.jpg",
+            "https://i.ibb.co/fNJtF1Y/laptop-8.jpg",
+            "https://i.ibb.co/fCT0KgF/laptop-9.jpg"
+        ],
+        "product_description" : "The outstanding Asus VivoBook 15 laptop, created to simplify your workday and improve performance, offers fantastic efficiency and stunning aesthetics. This laptop handles all of your multitasking requirements and gives you dynamic performance thanks to the Intel Core processor. Additionally, the dual-storage ASUS VivoBook 15 offers you the benefits of incredibly fast data speed and ample storage capacity. Moreover, its svelte and exquisite form makes you the centre of attention everywhere you go when donning it with you."
+    },
+    {
+        "product_id": 65,
+        "product_name": "Canon EOS 1500D DSLR Camera Body+ 18-55 mm IS II Lens  (Black)",
+        "product_thumb":  "https://i.ibb.co/Ry9h07G/camera-1.png",
+        "average_rating": 4.5,
+        "cost": 39999,
+        "cat_id" : "4",
+        "cat_name" : "Electronic",
+        "brand_id" : "17",
+        "brand_name" : "Camera",
+        "image_gallery": [
+            "https://i.ibb.co/Ry9h07G/camera-1.png",
+            "https://i.ibb.co/cNFZ8hC/camera-2.png",
+            "https://i.ibb.co/DMNXvx0/camera-3.jpg"
+        ],
+        "product_description" : "This Canon Camera gives you the freedom to explore different ways to shoot subjects. It packs a multitude of shooting options which you can incorporate in still images to create art that embodies the exact mood and vision you are going for. Don’t worry about the lighting conditions of a place because this camera’s large-sized sensor is designed to capture picture-perfect shots even in a dimly lit environment. Thanks to its Wi-Fi connectivity and NFC paring options, sharing photos is as simple as it gets."
+    },
+    {
+        "product_id": 66,
+        "product_name": "TinyTales Kids Digital Camera, Web Camera for Computer Child Video Recorder Camera Full HD 1080P Handy Portable Camera 2.0 Screen, with Inbuilt Games for Kids Instant Camera (Bue, Pink, Green) (Pack of 3) Point & Shoot Camera  (Multicolor)",
+        "product_thumb":  "https://i.ibb.co/Tc1YNGk/camera-4.png",
+        "average_rating": 2.1,
+        "cost": 3458,
+        "cat_id" : "4",
+        "cat_name" : "Electronic",
+        "brand_id" : "17",
+        "brand_name" : "Camera",
+        "image_gallery": [
+            "https://i.ibb.co/Tc1YNGk/camera-4.png",
+            "https://i.ibb.co/GV6ZmKr/camera-5.png",
+            "https://i.ibb.co/m6Ldc4G/camera-6.png",
+            "https://i.ibb.co/8b1g9Mg/camera-7.png"
+        ],
+        "product_description" : "Digital Camera can choose to take a picture in a variety of different frame templates and take a variety of styles. Children can see how cute they are. The camera enhances the picture with static and animated photo effects and has great visual effects. The compact size of 83*46*45mm makes the camera easy to carry around, and the soft camera belt makes it easy for children to hang around their necks. Suitable for a variety of occasions, cute and exquisite appearance, portable sports camera can be used for travel, birthday parties, daily life records, etc. Children's video camera uses environmentally friendly soft silicone non-toxic materials, protection against shockproof casing, durable and safe for children, providing them with a comfortable way to take pictures or record videos with children's cameras."
+    },
+    {
+        "product_id": 67,
+        "product_name": "Insta360 Action Camera X3 Sports and Action Camera  (Black, 72 MP)",
+        "product_thumb": "https://i.ibb.co/LJscTh2/camera-8.png",
+        "average_rating": 4.5,
+        "cost": 44990,
+        "cat_id" : "4",
+        "cat_name" : "Electronic",
+        "brand_id" : "17",
+        "brand_name" : "Camera",
+        "image_gallery": [
+            "https://i.ibb.co/LJscTh2/camera-8.png",
+            "https://i.ibb.co/pRTSSCT/camera-9.png",
+            "https://i.ibb.co/XJVtGfB/camera-10.png",
+            "https://i.ibb.co/J3RBGfr/camera-11.png"
+        ],
+        "product_description" : "The Insta360 action camera makes everything look life-like with its 5.7K 360-degree capture. It has AI-powered reframing tools so that you don’t miss any shots. The 1.2 cm (0.5) sensor captures photos and videos with more details. You can shoot wide-angle videos with the Single Lens Mode and share them with your friends on social media. The Insta360 action camera allows you to capture pictures in 72 megapixel with more details."
+    },
+    {
+        "product_id": 68,
+        "product_name": "POCO X5 Pro 5G (Horizon Blue, 128 GB)  (6 GB RAM)",
+        "product_thumb": "https://i.ibb.co/HqDD8Qk/mobile-1.jpg",
+        "average_rating": 4.3,
+        "cost": 21990,
+        "cat_id" : "4",
+        "cat_name" : "Electronic",
+        "brand_id" : "18",
+        "brand_name" : "Mobiles",
+        "image_gallery": [
+            "https://i.ibb.co/HqDD8Qk/mobile-1.jpg",
+            "https://i.ibb.co/445T1Kx/mobile-2.jpg",
+            "https://i.ibb.co/n3BDrzf/mobile-3.jpg"
+        ],
+        "product_description" : "With the POCO X5 Pro 5G's abundance of exceptional features, enjoy smooth operations and great efficiency. The Snapdragon 778G processor in this smartphone is exceptionally fast and well-optimised. Additionally, it gives you dependable functionality whenever you need it thanks to its astounding 545K AnTuTu score. For an immersive experience, this phone also has a premium-grade AMOLED display and an exceptionally slim bezel. Moreover, this phone's fantastic 108 MP main camera allows you to take stunning photos and enjoy wonderful image processing. This phone's camera also supports 4K video recording at 30 frames per second."
+    },
+    {
+        "product_id": 69,
+        "product_name": "SAMSUNG Galaxy S22 Plus 5G (Green, 128 GB)  (8 GB RAM)",
+        "product_thumb": "https://i.ibb.co/YtJp2FN/mobile-4.jpg",
+        "average_rating": 4.5,
+        "cost": 54999,
+        "cat_id" : "4",
+        "cat_name" : "Electronic",
+        "brand_id" : "18",
+        "brand_name" : "Mobiles",
+        "image_gallery": [
+            "https://i.ibb.co/YtJp2FN/mobile-4.jpg",
+            "https://i.ibb.co/0hMb4mn/mobile-5.jpg",
+            "https://i.ibb.co/CtZzDDf/mobile-6.jpg"
+        ],
+        "product_description" : "Experience a brilliant user interface and capture mesmerising images with the innovative Samsung Galaxy S22 Plus 5G, designed specifically for photography fanatics. This phone’s Auto Framerate adjusts the fps speed to the environment, and its Super Night Solution reduces noise, enabling you to take photographs with stunning detail. Powered by the sophisticated 4 nm CPU architecture and Snapdragon 8 Gen 1 processor, this phone gives you the ability to multitask efficiently. Moreover, with Vision Booster technology and 120 Hz Dynamic AMOLED 2X display, you can easily use this phone without experiencing any latency."
+    },
+    {
+        "product_id": 70,
+        "product_name": "APPLE iPhone 13 (Starlight, 128 GB)",
+        "product_thumb": "https://i.ibb.co/qn32sc7/mobile-7.jpg",
+        "average_rating": 4.8,
+        "cost": 57999,
+        "cat_id" : "4",
+        "cat_name" : "Electronic",
+        "brand_id" : "18",
+        "brand_name" : "Mobiles",
+        "image_gallery": [
+            "https://i.ibb.co/qn32sc7/mobile-7.jpg",
+            "https://i.ibb.co/VqQPbjv/mobile-8.png",
+            "https://i.ibb.co/yn00bk8/mobile-9.jpg"
+        ],
+        "product_description" : "iPhone 13. boasts an advanced dual-camera system that allows you to click mesmerising pictures with immaculate clarity. Furthermore, the lightning-fast A15 Bionic chip allows for seamless multitasking, elevating your performance to a new dimension. A big leap in battery life, a durable design, and a bright Super Retina XDR display facilitate boosting your user experience."
+    },
+    {
+        "product_id": 71,
+        "product_name": "Acer I Series 127 cm (50 inch) Ultra HD (4K) LED Smart Android TV with Android 11, 30W Dolby Audio, MEMC (2022 Model)  (AR50AR2851UDFL)",
+        "product_thumb": "https://i.ibb.co/ypf8bHQ/tv-1.jpg",
+        "average_rating": 4.2,
+        "cost": 32499,
+        "cat_id" : "4",
+        "cat_name" : "Electronic",
+        "brand_id" : "19",
+        "brand_name" : "TV",
+        "image_gallery": [
+            "https://i.ibb.co/ypf8bHQ/tv-1.jpg",
+            "https://i.ibb.co/F5RLZts/tv-2.png",
+            "https://i.ibb.co/KLnGMcm/tv-3.png"
+        ],
+        "product_description" : "With the acer i series 127 cm (50) TV's assortment of outstanding features, you can enjoy smooth entertainment and live through your entertainment. This TV has an amazing frameless design that allows you to experience top-notch pictures with flawless imagery. Furthermore, the 178-degree field of view on this TV allows you to enjoy unmatched visuals, bringing every image on the screen to life. Moreover, this TV includes a plethora of connectivity choices, allowing you to stay connected to the world and experience limitless content. Additionally, with a 64-bit Quad-core processor, 2 GB of RAM, and 16 GB of internal storage, you can enjoy a seamless transition and unrivalled entertainment."
+    },
+    {
+        "product_id": 72,
+        "product_name": "SAMSUNG Crystal 4K Neo Series 108 cm (43 inch) Ultra HD (4K) LED Smart Tizen TV with Voice Search  (UA43AUE65AKXXL)",
+        "product_thumb": "https://i.ibb.co/hyhvs5r/tv-7.png",
+        "average_rating": 4.2,
+        "cost": 28990,
+        "cat_id" : "4",
+        "cat_name" : "Electronic",
+        "brand_id" : "19",
+        "brand_name" : "TV",
+        "image_gallery": [
+            "https://i.ibb.co/hyhvs5r/tv-7.png",
+            "https://i.ibb.co/59Gvk5d/tv-8.png"
+        ],
+        "product_description" : "Experience watching all your favourite content in 4K quality by bringing home the Samsung UHD (4K) Neo Smart TV. Powered by Crystal Technology, the television boasts some best-in-segment features such as One Billion True Colours for authentic representation of every colour, HDR10+ for crisp visuals even during dark scenes and a Bezel-less Design for an immersive viewing experience. The crystal 4k Neo comes with Dolby Digital Plus and Adaptive sound technology so that you can indulge in a theatrical sound experience. Keeping in line with modern entertainment needs, this TV features a built-in Voice assistant, Universal Guide, PC Mode, Samsung TV Plus, thus making your TV watching experience engaging."
+    },
+    {
+        "product_id": 73,
+        "product_name": "Mi X Series 125 cm (50 inch) Ultra HD (4K) LED Smart Android TV with Dolby Vision & 30W Dolby Audio (2022 Model)",
+        "product_thumb":  "https://i.ibb.co/bQB8kQv/tv-4.png",
+        "average_rating": 4.2,
+        "cost": 32999,
+        "cat_id" : "4",
+        "cat_name" : "Electronic",
+        "brand_id" : "19",
+        "brand_name" : "TV",
+        "image_gallery": [
+            "https://i.ibb.co/bQB8kQv/tv-4.png",
+            "https://i.ibb.co/Hpx2Nv9/tv-5.png",
+            "https://i.ibb.co/pJgryN5/tv-6.jpg"
+        ],
+        "product_description" : "With this Xiaomi TV that breathes life into your entertainment, you bring home the real entertainer and always keep one step ahead of the entertainment curve. The stunning bezel-less design of this TV elevates your viewing experience to a whole new level. Furthermore, you can hear every note thanks to Dolby Audio and 30 W of power from the speakers. The Quad-core A55 CPU also enables this TV to function amazingly well, mesmerising you with its effectiveness."
+    },
+    {
+        "product_id": 74,
+        "product_name": "SONY PlayStation 5 console 825 GB  (NA)",
+        "product_thumb":  "https://i.ibb.co/0qKfkVN/game-1.png",
+        "average_rating": 4.9,
+        "cost": 54990,
+        "cat_id" : "4",
+        "cat_name" : "Electronic",
+        "brand_id" : "20",
+        "brand_name" : "Gaming & Accessories",
+        "image_gallery": [
+            "https://i.ibb.co/0qKfkVN/game-1.png",
+            "https://i.ibb.co/wWK1fkQ/game-2.png",
+            "https://i.ibb.co/q9V2Z6k/game-3.jpg"
+        ],
+        "product_description" : "PS5\nGames Included:No\nMaximize your play sessions with near instant load times for installed PS5 games\nEnjoy smooth and fluid high frame rate gameplay at up to 120fps for compatible games, with support for 120Hz output on 4K displays.\nPS5 consoles support 8K Output, so you can play games on your 4320p resolution display\nGet to grips with immersive adaptive triggers, featuring dynamic resistance levels which simulate the physical impact of in-game activities in select PS5 games."
+    },
+    {
+        "product_id": 75,
+        "product_name": "AOKO New PVP Video Gaming Console with Super Mario,Contra and Many More (Red) Limited Edition  (Code in the Box - for PC)",
+        "product_thumb":  "https://i.ibb.co/0qKfkVN/game-1.png",
+        "average_rating": 3.5,
+        "cost": 769,
+        "cat_id" : "4",
+        "cat_name" : "Electronic",
+        "brand_id" : "20",
+        "brand_name" : "Gaming & Accessories",
+        "image_gallery": [
+            "https://i.ibb.co/02ZpR1b/games-4.png",
+            "https://i.ibb.co/vmhwSqk/games-5.jpg",
+            "https://i.ibb.co/tq9knwJ/games-6.png"
+        ],
+        "product_description" : "Description Specification:1) 2.7 LCD Display,Full Color Digital Crystal Screen 2) Support more than 2000 different 8-bit true color games 888888 games bulit-in 1 (16Mb memory) Enclosed game cassette with 999999 games bulit-in (16Mb memory) 3) TV-out function ,plug and play 4) With 700mAH Lithium rechargeable battery 5) Power: 110-240V AC: 50-60Hz 6) Body Size: 155*72*19 mm 7) Body Weight: 0.3KG 8) Multicolors 9) Small and delicate, easy for carrying in pocket 10) Package Includes: 1X Game cassette 1X Game player 1X Power charger 1X 700mAH Lithium Battery 1X AV cable 1X case 1X User Manual "
+    },
+    {
+        "product_id": 76,
+        "product_name": "CANDYVILLA Mini Portable Dual Bladeless Small Air Conditioner Water Air Cooler USB Fan Cooler  (Multicolor)",
+        "product_thumb":  "https://i.ibb.co/nctfLqW/games-7.jpg",
+        "average_rating": 3.2,
+        "cost": 400,
+        "cat_id" : "4",
+        "cat_name" : "Electronic",
+        "brand_id" : "20",
+        "brand_name" : "Gaming & Accessories",
+        "image_gallery": [
+            "https://i.ibb.co/nctfLqW/games-7.jpg",
+            "https://i.ibb.co/cyXbFNk/games-8.png",
+            "https://i.ibb.co/Bc1ZsWk/games-9.jpg"
+        ],
+        "product_description" : "You also can add ice or ice water into the storage box to provide freezing air to let you say goodbye to hot wind With desktop design and easy to use, it is a wonderful mini air-conditioning fragrance fan for choice You can add scent beads and 50ml water into the storage box inside the fan, to give off fragrance besides Powered by: 3 x aa batteries (Not Included) or usb cable.|Charge the device for 4 hours before first use Suitable for home, office and outdoor use"
+    },
+    {
+        "product_id": 77,
+        "product_name": "Boys Festive & Party Kurta and Dhoti Pant Set  (White Pack of 1)",
+        "product_thumb":  "https://i.ibb.co/bKyFxFN/kids-1.png",
+        "average_rating": 4.2,
+        "cost": 379,
+        "cat_id" : "5",
+        "cat_name" : "Baby & Kids",
+        "brand_id" : "21",
+        "brand_name" : "Kids Clothing",
+        "image_gallery": [
+            "https://i.ibb.co/bKyFxFN/kids-1.png",
+            "https://i.ibb.co/X7Nbqw1/kids-2.png",
+            "https://i.ibb.co/RbN9vT2/kids-3.jpg"
+        ],
+        "product_description" : "Brand : Sahil collection\nStyle Code : 406\nSize : 2-3 yrs\nBrand Color : White\nIdeal For : Boys\nType : Kurta and Dhoti Pant Set"
+    },
+    {
+        "product_id": 78,
+        "product_name": "Girls Calf Length Casual Dress  (Blue, 3/4 Sleeve)",
+        "product_thumb":  "https://i.ibb.co/ZL6tb9W/kids-4.jpg",
+        "average_rating": 4.2,
+        "cost": 399,
+        "cat_id" : "5",
+        "cat_name" : "Baby & Kids",
+        "brand_id" : "21",
+        "brand_name" : "Kids Clothing",
+        "image_gallery": [
+            "https://i.ibb.co/ZL6tb9W/kids-4.jpg",
+            "https://i.ibb.co/R7g99jp/kids-5.png",
+            "https://i.ibb.co/Th6zyhM/kids-6.jpg"
+        ],
+        "product_description" : "Brand : Fashion Dream\nStyle Code : 406\nSize : 2-3 yrs\nBrand Color : TEAL BLUE\nIdeal For : Girls\nType : Ruffle Dress"
+    },
+    {
+        "product_id": 79,
+        "product_name": "Vest For Baby Boys Cotton  (Multicolor, Pack of 6)",
+        "product_thumb":  "https://i.ibb.co/JttZDpK/kids-7.jpg",
+        "average_rating": 4.2,
+        "cost": 379,
+        "cat_id" : "5",
+        "cat_name" : "Baby & Kids",
+        "brand_id" : "21",
+        "brand_name" : "Kids Clothing",
+        "image_gallery": [
+            "https://i.ibb.co/JttZDpK/kids-7.jpg",
+            "https://i.ibb.co/PZVmZPK/kids-8.jpg",
+            "https://i.ibb.co/0ZPC4X6/kids-9.jpg"
+        ],
+        "product_description" : "Brand : Mega Styles\nStyle Code : 406\nSize : 2-3 yrs\nBrand Color : Multicolor\nIdeal For : Boys & Girls\nType : Kurta and Dhoti Pant Set"
+    },
+    {
+        "product_id": 80,
+        "product_name": "Velcro Sneakers For Boys  (Blue)",
+        "product_thumb":  "https://i.ibb.co/0QrLX6L/kids-10.jpg",
+        "average_rating": 2.2,
+        "cost": 494,
+        "cat_id" : "5",
+        "cat_name" : "Baby & Kids",
+        "brand_id" : "22",
+        "brand_name" : "Kids Footwear",
+        "image_gallery": [
+            "https://i.ibb.co/0QrLX6L/kids-10.jpg",
+            "https://i.ibb.co/QH47kFD/kids-11.jpg"
+        ],
+        "product_description" : "Brand : BIRDE\nStyle Code : 406\nSize : 2-3 yrs\nBrand Color : Blue\nIdeal For : Boys\nType : Casual Wear"
+    },
+    {
+        "product_id": 81,
+        "product_name": "Zip Casual Boots For Girls  (Pink)",
+        "product_thumb":  "https://i.ibb.co/zxDfnj8/kids-12.png",
+        "average_rating": 2.2,
+        "cost": 266,
+        "cat_id" : "5",
+        "cat_name" : "Baby & Kids",
+        "brand_id" : "22",
+        "brand_name" : "Kids Footwear",
+        "image_gallery": [
+            "https://i.ibb.co/zxDfnj8/kids-12.png",
+            "https://i.ibb.co/PZzc8dR/kids-13.png",
+            "https://i.ibb.co/wYFg4jr/kids-14.jpg"
+        ],
+        "product_description" : "Brand : Ideal COLLECTION\nStyle Code : 406\nSize : 2-3 yrs\nBrand Color : Pink\nIdeal For : Girls\nType : Casual Wear"
+    },
+    {
+        "product_id": 82,
+        "product_name": "LMN Child Care Booties  (Toe to Heel Length - 12 cm, Orange, Pink, White)",
+        "product_thumb": "https://i.ibb.co/XzyWrhr/kids-15.png",
+        "average_rating": 2.2,
+        "cost": 266,
+        "cat_id" : "5",
+        "cat_name" : "Baby & Kids",
+        "brand_id" : "22",
+        "brand_name" : "Kids Footwear",
+        "image_gallery": [
+            "https://i.ibb.co/XzyWrhr/kids-15.png",
+            "https://i.ibb.co/Kq3v0zV/kids-16.png",
+            "https://i.ibb.co/h8pZrzm/kids-17.png"
+        ],
+        "product_description" : "Brand : Ideal COLLECTION\nStyle Code : 406\nSize : 2-3 yrs\nBrand Color : Pink\nIdeal For : Girls\nType : Casual Wear"
+    },
+    {
+        "product_id": 83,
+        "product_name": "TITIRANGI 4 Pack 4WD Monster Truck Cars,Push and Go Toy Trucks Friction Powered Cars 4 Wheel Drive Vehicles for Toddlers Children Boys Girls Kids Gift-4PCS  (Multicolor)",
+        "product_thumb": "https://i.ibb.co/Scjjc5D/kids-18.png",
+        "average_rating": 3.2,
+        "cost": 300,
+        "cat_id" : "5",
+        "cat_name" : "Baby & Kids",
+        "brand_id" : "23",
+        "brand_name" : "Kids Toys",
+        "image_gallery": [
+            "https://i.ibb.co/Scjjc5D/kids-18.png",
+            "https://i.ibb.co/rdvgfm9/kids-19.png",
+            "https://i.ibb.co/PgRsTYp/kids-20.png"
+        ],
+        "product_description" : "Bright colors can help children's color discrimination Mini plastic body, resistant to drop. Inertial motion and shockproof. Can be given as a good gift to children. Exercising the flexibility and coordinated capacity of hands and eyes, encouraging kid's imagination. The car toy are great for kids, toddlers, girls, boys, Easter basket stuffers, birthday gifts, school classroom rewards, carnival prizes, pinata, stocking stuffers. Pull back vehicles - Bigger than other market mini cars. Unlike other plastic cars which is easy to break, our die-cast vehicles are made of premium quality alloy, it's safe and non-toxic, durable& sturdy, anti-wear& fall resistant. Pull Back and Go: Friction powered (no battery needed). Just pull it back and then the car will go automatically. It's easy to play for kids, and it will make an amazing time for parents to interact with toddlers."
+    },
+    {
+        "product_id": 84,
+        "product_name": "JASIL Sofa for Kids Soft Plush Cushion Baby Sofa Seat Or Rocking Chair for Kids - 36 inch Blue - 35 inch  (Blue)",
+        "product_thumb": "https://i.ibb.co/257pgjS/kids-21.jpg",
+        "average_rating": 3.7,
+        "cost": 449,
+        "cat_id" : "5",
+        "cat_name" : "Baby & Kids",
+        "brand_id" : "23",
+        "brand_name" : "Kids Toys",
+        "image_gallery": [
+            "https://i.ibb.co/257pgjS/kids-21.jpg",
+            "https://i.ibb.co/DLh1LNS/kids-22.png",
+            "https://i.ibb.co/V2KqbNN/kids-23.png"
+        ],
+        "product_description" : "Sales Package : 1 Baby sofa\nIdeal For : Boys & Girls\nMinimum Age : 5yrs"
+    },
+    {
+        "product_id": 85,
+        "product_name": "Toys R Us Avigo Steel Foldable Scooter & Height Adjustable | CAP : 50 KG | AGE 5-10 YRS| BLACK  (Black)",
+        "product_thumb": "https://i.ibb.co/CHLmfCS/kids-24.png",
+        "average_rating": 3.2,
+        "cost": 1699,
+        "cat_id" : "5",
+        "cat_name" : "Baby & Kids",
+        "brand_id" : "23",
+        "brand_name" : "Kids Toys",
+        "image_gallery": [
+            "https://i.ibb.co/CHLmfCS/kids-24.png",
+            "https://i.ibb.co/HxqVL90/kids-25.png",
+            "https://i.ibb.co/hFcpq5Q/kids-26.png"
+        ],
+        "product_description" : "Bright colors can help children's color discrimination Mini plastic body, resistant to drop. Inertial motion and shockproof. Can be given as a good gift to children. Exercising the flexibility and coordinated capacity of hands and eyes, encouraging kid's imagination. The car toy are great for kids, toddlers, girls, boys, Easter basket stuffers, birthday gifts, school classroom rewards, carnival prizes, pinata, stocking stuffers. Pull back vehicles - Bigger than other market mini cars. Unlike other plastic cars which is easy to break, our die-cast vehicles are made of premium quality alloy, it's safe and non-toxic, durable& sturdy, anti-wear& fall resistant. Pull Back and Go: Friction powered (no battery needed). Just pull it back and then the car will go automatically. It's easy to play for kids, and it will make an amazing time for parents to interact with toddlers."
+    }
+]

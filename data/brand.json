@@ -1,0 +1,127 @@
+[
+    {
+        "brand_id": 1,
+        "cat_id": 1,
+        "brand_name" : "Detergents & Laundary"
+    },
+    {
+        "brand_id": 2,
+        "cat_id": 1,
+        "brand_name" : "Utensil Cleaners"
+    },
+    {
+        "brand_id": 3,
+        "cat_id": 1,
+        "brand_name" : "Pooja Needs"
+    },
+    {
+        "brand_id": 4,
+        "cat_id": 1,
+        "brand_name" : "Pet Food"
+    },
+    {
+        "brand_id": 5,
+        "cat_id": 1,
+        "brand_name" : "Dairy"
+    },
+    {
+        "brand_id": 6,
+        "cat_id": 2,
+        "brand_name" : "Beds Room Furniture"
+    },
+    {
+        "brand_id": 7,
+        "cat_id": 2,
+        "brand_name" : "Home Decor"
+    },
+    {
+        "brand_id": 8,
+        "cat_id": 2,
+        "brand_name" : "Living Room Furniture"
+    },
+    {
+        "brand_id": 9,
+        "cat_id": 2,
+        "brand_name" : "Kitchen Storage"
+    },
+    {
+        "brand_id": 10,
+        "cat_id": 2,
+        "brand_name" : "Cleaning Supplies"
+    },
+    {
+        "brand_id": 11,
+        "cat_id": 3,
+        "brand_name" : "Literature Books"
+    },
+    {
+        "brand_id": 12,
+        "cat_id": 3,
+        "brand_name" : "History And Archaeology Books"
+    },
+    {
+        "brand_id": 13,
+        "cat_id": 3,
+        "brand_name" : "Entrance Exam Books"
+    },
+    {
+        "brand_id": 14,
+        "cat_id": 3,
+        "brand_name" : "Fiction Books"
+    },
+    {
+        "brand_id": 15,
+        "cat_id": 3,
+        "brand_name" : "Graphic Novels And Comics"
+    },
+    {
+        "brand_id": 16,
+        "cat_id": 4,
+        "brand_name" : "Laptops"
+    },
+    {
+        "brand_id": 17,
+        "cat_id": 4,
+        "brand_name" : "Camera"
+    },
+    {
+        "brand_id": 18,
+        "cat_id": 4,
+        "brand_name" : "Mobiles"
+    },
+    {
+        "brand_id": 19,
+        "cat_id": 4,
+        "brand_name" : "TV"
+    },
+    {
+        "brand_id": 20,
+        "cat_id": 4,
+        "brand_name" : "Gaming & Accessories"
+    },
+    {
+        "brand_id": 21,
+        "cat_id": 5,
+        "brand_name" : "Kids Clothing"
+    },
+    {
+        "brand_id": 22,
+        "cat_id": 5,
+        "brand_name" : "Kids Footwear"
+    },
+    {
+        "brand_id": 23,
+        "cat_id": 5,
+        "brand_name" : "Kids Toys"
+    },
+    {
+        "brand_id": 24,
+        "cat_id": 5,
+        "brand_name" : "Baby Care"
+    },
+    {
+        "brand_id": 25,
+        "cat_id": 5,
+        "brand_name" : "Kids School Supplies"
+    }
+]
